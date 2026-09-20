@@ -1,0 +1,182 @@
+[
+  {
+    "id": 73,
+    "run_id": 5,
+    "psp": "PSP1",
+    "source_file": "psp1.json",
+    "source_row": 8,
+    "source_sha256": "e24a771d06734af8754c6e477256a3723caceaa1987c5d4d5a6191c3015791bd",
+    "reason": "Malformed or timezone-ambiguous timestamp",
+    "raw_json": "{\"transaction_id\": \"txn-00008\", \"created_at\": \"32/13/2026\", \"amount\": \"3411080.00\", \"currency\": \"COP\", \"country\": \"CO\", \"payment_method\": \"debit_card\", \"status\": \"SUCCESS\", \"fee\": \"92099.36\"}"
+  },
+  {
+    "id": 74,
+    "run_id": 5,
+    "psp": "PSP1",
+    "source_file": "psp1.json",
+    "source_row": 18,
+    "source_sha256": "e24a771d06734af8754c6e477256a3723caceaa1987c5d4d5a6191c3015791bd",
+    "reason": "Missing required fields: amount",
+    "raw_json": "{\"transaction_id\": \"txn-00018\", \"created_at\": \"2026-07-21T00:54:01+00:00\", \"amount\": \"\", \"currency\": \"COP\", \"country\": \"CO\", \"payment_method\": \"credit_card\", \"status\": \"FAILED\", \"fee\": \"72075.08\"}"
+  },
+  {
+    "id": 75,
+    "run_id": 5,
+    "psp": "PSP1",
+    "source_file": "psp1.json",
+    "source_row": 28,
+    "source_sha256": "e24a771d06734af8754c6e477256a3723caceaa1987c5d4d5a6191c3015791bd",
+    "reason": "Unknown provider status",
+    "raw_json": "{\"transaction_id\": \"txn-00028\", \"created_at\": \"2026-07-01T22:18:29+00:00\", \"amount\": \"3677120.00\", \"currency\": \"Colombian Peso\", \"country\": \"CO\", \"payment_method\": \"credit_card\", \"status\": \"UNRECOGNIZED\", \"fee\": \"99282.44\"}"
+  },
+  {
+    "id": 76,
+    "run_id": 5,
+    "psp": "PSP2",
+    "source_file": "psp2.csv",
+    "source_row": 8,
+    "source_sha256": "17837adf074f4f7a715b07643bd67a6a3c52700b7627aaca4a89e4a4d571a4b8",
+    "reason": "Malformed or timezone-ambiguous timestamp",
+    "raw_json": "{\"id\": \"txn-00008\", \"data\": \"32/13/2026\", \"valor\": \"593,46\", \"moeda\": \"BRL\", \"pais\": \"BR\", \"metodo\": \"pix\", \"situacao\": \"PAGO\", \"taxa\": \"5,54\"}"
+  },
+  {
+    "id": 77,
+    "run_id": 5,
+    "psp": "PSP2",
+    "source_file": "psp2.csv",
+    "source_row": 18,
+    "source_sha256": "17837adf074f4f7a715b07643bd67a6a3c52700b7627aaca4a89e4a4d571a4b8",
+    "reason": "Missing required fields: amount",
+    "raw_json": "{\"id\": \"txn-00018\", \"data\": \"24/07/2026 17:21:30-0300\", \"valor\": \"\", \"moeda\": \"BRL\", \"pais\": \"BR\", \"metodo\": \"pix\", \"situacao\": \"RECUSADO\", \"taxa\": \"33,67\"}"
+  },
+  {
+    "id": 78,
+    "run_id": 5,
+    "psp": "PSP2",
+    "source_file": "psp2.csv",
+    "source_row": 28,
+    "source_sha256": "17837adf074f4f7a715b07643bd67a6a3c52700b7627aaca4a89e4a4d571a4b8",
+    "reason": "Unknown provider status",
+    "raw_json": "{\"id\": \"txn-00028\", \"data\": \"03/07/2026 23:40:50-0300\", \"valor\": \"4238,88\", \"moeda\": \"Real\", \"pais\": \"BR\", \"metodo\": \"boleto\", \"situacao\": \"UNRECOGNIZED\", \"taxa\": \"38,35\"}"
+  },
+  {
+    "id": 79,
+    "run_id": 5,
+    "psp": "PSP3",
+    "source_file": "psp3.jsonl",
+    "source_row": 8,
+    "source_sha256": "233323a7d6e2b6d9367b8e20f6e69e5c829e1363a6f8d81154e9a4664fb046e9",
+    "reason": "Malformed or timezone-ambiguous timestamp",
+    "raw_json": "{\"reference\": \"txn-00008\", \"epoch\": \"32/13/2026\", \"total_value\": \"1036764.00\", \"ccy\": \"ARS\", \"market\": \"AR\", \"instrument\": \"debit_card\", \"result\": \"09\", \"processing_cost\": \"35250.18\"}"
+  },
+  {
+    "id": 80,
+    "run_id": 5,
+    "psp": "PSP3",
+    "source_file": "psp3.jsonl",
+    "source_row": 18,
+    "source_sha256": "233323a7d6e2b6d9367b8e20f6e69e5c829e1363a6f8d81154e9a4664fb046e9",
+    "reason": "Missing required fields: amount",
+    "raw_json": "{\"reference\": \"txn-00018\", \"epoch\": 1785161992, \"total_value\": \"\", \"ccy\": \"ARS\", \"market\": \"AR\", \"instrument\": \"credit_card\", \"result\": \"00\", \"processing_cost\": \"21420.20\"}"
+  },
+  {
+    "id": 81,
+    "run_id": 5,
+    "psp": "PSP3",
+    "source_file": "psp3.jsonl",
+    "source_row": 28,
+    "source_sha256": "233323a7d6e2b6d9367b8e20f6e69e5c829e1363a6f8d81154e9a4664fb046e9",
+    "reason": "Unknown provider status",
+    "raw_json": "{\"reference\": \"txn-00028\", \"epoch\": 1783437470, \"total_value\": \"470448.00\", \"ccy\": \"Argentine Peso\", \"market\": \"AR\", \"instrument\": \"bank_transfer\", \"result\": \"UNRECOGNIZED\", \"processing_cost\": \"15995.43\"}"
+  },
+  {
+    "id": 82,
+    "run_id": 5,
+    "psp": "PSP4",
+    "source_file": "psp4.xml",
+    "source_row": 8,
+    "source_sha256": "f3d31002530a6de9fc432e19a253f4113e55bf92ae4ec69e61e58b9748cefb1c",
+    "reason": "Malformed or timezone-ambiguous timestamp",
+    "raw_json": "{\"paymentId\": \"txn-00008\", \"bookedAt\": \"32/13/2026\", \"gross\": \"181,20\", \"currencyCode\": \"EUR\", \"countryCode\": \"PT\", \"type\": \"bank_transfer\", \"state\": \"approved\", \"cost\": \"3,64\"}"
+  },
+  {
+    "id": 83,
+    "run_id": 5,
+    "psp": "PSP4",
+    "source_file": "psp4.xml",
+    "source_row": 18,
+    "source_sha256": "f3d31002530a6de9fc432e19a253f4113e55bf92ae4ec69e61e58b9748cefb1c",
+    "reason": "Missing required fields: amount",
+    "raw_json": "{\"paymentId\": \"txn-00018\", \"bookedAt\": \"30.07.2026 02:40:53+0200\", \"gross\": null, \"currencyCode\": \"EUR\", \"countryCode\": \"PT\", \"type\": \"debit_card\", \"state\": \"rejected\", \"cost\": \"3,54\"}"
+  },
+  {
+    "id": 84,
+    "run_id": 5,
+    "psp": "PSP4",
+    "source_file": "psp4.xml",
+    "source_row": 28,
+    "source_sha256": "f3d31002530a6de9fc432e19a253f4113e55bf92ae4ec69e61e58b9748cefb1c",
+    "reason": "Unknown provider status",
+    "raw_json": "{\"paymentId\": \"txn-00028\", \"bookedAt\": \"10.07.2026 08:21:36+0200\", \"gross\": \"98,19\", \"currencyCode\": \"Euro\", \"countryCode\": \"PT\", \"type\": \"credit_card\", \"state\": \"UNRECOGNIZED\", \"cost\": \"2,07\"}"
+  },
+  {
+    "id": 85,
+    "run_id": 5,
+    "psp": "PSP5",
+    "source_file": "psp5.csv",
+    "source_row": 8,
+    "source_sha256": "11a120efee84644ec56c35d167a1504d2d697e018fd0dcd79ca045f8fe0642b7",
+    "reason": "Malformed or timezone-ambiguous timestamp",
+    "raw_json": "{\"ref\": \"txn-00008\", \"time\": \"32/13/2026\", \"transaction_amount\": \"3148.80\", \"currency_name\": \"BRL\", \"region\": \"BR\", \"channel\": \"pix\", \"outcome\": \"COMPLETED\", \"charge\": \"72.62\"}"
+  },
+  {
+    "id": 86,
+    "run_id": 5,
+    "psp": "PSP5",
+    "source_file": "psp5.csv",
+    "source_row": 18,
+    "source_sha256": "11a120efee84644ec56c35d167a1504d2d697e018fd0dcd79ca045f8fe0642b7",
+    "reason": "Missing required fields: amount",
+    "raw_json": "{\"ref\": \"txn-00018\", \"time\": \"2026-08-02T05:14:05+00:00\", \"transaction_amount\": \"\", \"currency_name\": \"EUR\", \"region\": \"PT\", \"channel\": \"bank_transfer\", \"outcome\": \"COMPLETED\", \"charge\": \"14.78\"}"
+  },
+  {
+    "id": 87,
+    "run_id": 5,
+    "psp": "PSP5",
+    "source_file": "psp5.csv",
+    "source_row": 28,
+    "source_sha256": "11a120efee84644ec56c35d167a1504d2d697e018fd0dcd79ca045f8fe0642b7",
+    "reason": "Unknown provider status",
+    "raw_json": "{\"ref\": \"txn-00028\", \"time\": \"2026-07-13T12:49:03+00:00\", \"transaction_amount\": \"414640.00\", \"currency_name\": \"Colombian Peso\", \"region\": \"CO\", \"channel\": \"bank_transfer\", \"outcome\": \"UNRECOGNIZED\", \"charge\": \"9536.92\"}"
+  },
+  {
+    "id": 88,
+    "run_id": 5,
+    "psp": "PSP6",
+    "source_file": "psp6.jsonl",
+    "source_row": 8,
+    "source_sha256": "87fdcc97ed189274e88fb1aafbefc3adaf1387f25e059e91c57c95da55e6b666",
+    "reason": "Malformed or timezone-ambiguous timestamp",
+    "raw_json": "{\"event_id\": \"txn-00008\", \"timestamp\": \"32/13/2026\", \"amount_minor\": 220134, \"currency\": \"BRL\", \"country\": \"BR\", \"wallet\": \"digital_wallet\", \"code\": \"200\", \"fee_minor\": 6404}"
+  },
+  {
+    "id": 89,
+    "run_id": 5,
+    "psp": "PSP6",
+    "source_file": "psp6.jsonl",
+    "source_row": 18,
+    "source_sha256": "87fdcc97ed189274e88fb1aafbefc3adaf1387f25e059e91c57c95da55e6b666",
+    "reason": "Missing required fields: amount",
+    "raw_json": "{\"event_id\": \"txn-00018\", \"timestamp\": 1785947385, \"amount_minor\": \"\", \"currency\": \"EUR\", \"country\": \"PT\", \"wallet\": \"digital_wallet\", \"code\": \"200\", \"fee_minor\": 2753}"
+  },
+  {
+    "id": 90,
+    "run_id": 5,
+    "psp": "PSP6",
+    "source_file": "psp6.jsonl",
+    "source_row": 28,
+    "source_sha256": "87fdcc97ed189274e88fb1aafbefc3adaf1387f25e059e91c57c95da55e6b666",
+    "reason": "Unknown provider status",
+    "raw_json": "{\"event_id\": \"txn-00028\", \"timestamp\": 1784181197, \"amount_minor\": 275396000, \"currency\": \"Colombian Peso\", \"country\": \"CO\", \"wallet\": \"digital_wallet\", \"code\": \"UNRECOGNIZED\", \"fee_minor\": 7986504}"
+  }
+]

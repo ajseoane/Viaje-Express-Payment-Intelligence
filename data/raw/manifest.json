@@ -1,0 +1,32 @@
+[
+  {
+    "psp": "PSP1",
+    "file": "psp1.json",
+    "format": "json"
+  },
+  {
+    "psp": "PSP2",
+    "file": "psp2.csv",
+    "format": "csv"
+  },
+  {
+    "psp": "PSP3",
+    "file": "psp3.jsonl",
+    "format": "jsonl"
+  },
+  {
+    "psp": "PSP4",
+    "file": "psp4.xml",
+    "format": "xml"
+  },
+  {
+    "psp": "PSP5",
+    "file": "psp5.csv",
+    "format": "csv"
+  },
+  {
+    "psp": "PSP6",
+    "file": "psp6.jsonl",
+    "format": "jsonl"
+  }
+]

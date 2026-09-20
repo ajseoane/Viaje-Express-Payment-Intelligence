@@ -1,0 +1,241 @@
+{"reference": "txn-00001", "epoch": 1782658779, "total_value": "256692.00", "ccy": "$", "market": "AR", "instrument": "BANK_TRANSFER", "result": "05", "processing_cost": ""}
+{"reference": "txn-00002", "epoch": 1783258935, "total_value": "742716.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "25252.54"}
+{"reference": "txn-00003", "epoch": 1783852678, "total_value": "203196.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "6908.86"}
+{"reference": "txn-00004", "epoch": 1784504879, "total_value": "406500.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "13821.20"}
+{"reference": "txn-00005", "epoch": 1785107418, "total_value": "280776.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "9546.58"}
+{"reference": "txn-00006", "epoch": 1785648179, "total_value": "152856.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "5197.30"}
+{"reference": "txn-00007", "epoch": 1786233650, "total_value": "563472.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "19158.25"}
+{"reference": "txn-00008", "epoch": "32/13/2026", "total_value": "1036764.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "09", "processing_cost": "35250.18"}
+{"reference": "txn-00009", "epoch": 1787452679, "total_value": "364308.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "12386.67"}
+{"reference": "txn-00010", "epoch": 1788120801, "total_value": "911904.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "09", "processing_cost": "31004.94"}
+{"reference": "txn-00011", "epoch": 1788707127, "total_value": "410532.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "13958.29"}
+{"reference": "txn-00012", "epoch": 1789274543, "total_value": "536136.00", "ccy": "ARS", "market": "AR", "instrument": "BANK_TRANSFER", "result": "00", "processing_cost": "18228.82"}
+{"reference": "txn-00013", "epoch": 1782121392, "total_value": "804672.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "27359.05"}
+{"reference": "txn-00014", "epoch": 1782767489, "total_value": "313944.00", "ccy": "$", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "10674.30"}
+{"reference": "txn-00015", "epoch": 1783350525, "total_value": "1097028.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "37299.15"}
+{"reference": "txn-00016", "epoch": 1783909278, "total_value": "1098624.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "37353.42"}
+{"reference": "txn-00017", "epoch": 1784547025, "total_value": "558684.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "18995.46"}
+{"reference": "txn-00018", "epoch": 1785161992, "total_value": "", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "21420.20"}
+{"reference": "txn-00019", "epoch": 1785756509, "total_value": "613596.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "20862.46"}
+{"reference": "txn-00020", "epoch": 1786398095, "total_value": "601272.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": ""}
+{"reference": "txn-00021", "epoch": 1786999016, "total_value": "390480.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "13276.52"}
+{"reference": "txn-00022", "epoch": 1787554203, "total_value": "967524.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "32896.02"}
+{"reference": "txn-00023", "epoch": 1788142566, "total_value": "205320.00", "ccy": "ARS", "market": "AR", "instrument": "CREDIT_CARD", "result": "00", "processing_cost": "6981.08"}
+{"reference": "txn-00024", "epoch": 1788739466, "total_value": "200580.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "6819.92"}
+{"reference": "txn-00025", "epoch": 1789374333, "total_value": "783648.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "26644.23"}
+{"reference": "txn-00026", "epoch": 1782199851, "total_value": "392712.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "13352.41"}
+{"reference": "txn-00027", "epoch": 1782842884, "total_value": "159540.00", "ccy": "$", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "5424.56"}
+{"reference": "txn-00028", "epoch": 1783437470, "total_value": "470448.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "UNRECOGNIZED", "processing_cost": "15995.43"}
+{"reference": "txn-00029", "epoch": 1784026297, "total_value": "122232.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "4156.09"}
+{"reference": "txn-00030", "epoch": 1784674997, "total_value": "515712.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "17534.41"}
+{"reference": "txn-00031", "epoch": 1785230200, "total_value": "918600.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "31232.60"}
+{"reference": "txn-00032", "epoch": 1785831719, "total_value": "779664.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "26508.78"}
+{"reference": "txn-00033", "epoch": 1786480865, "total_value": "955812.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "32497.81"}
+{"reference": "txn-00034", "epoch": 1787087263, "total_value": "666144.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "05", "processing_cost": "22649.10"}
+{"reference": "txn-00035", "epoch": 1787672935, "total_value": "955248.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "32478.63"}
+{"reference": "txn-00036", "epoch": 1788239343, "total_value": "321960.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "10946.84"}
+{"reference": "txn-00037", "epoch": 1788904459, "total_value": "659700.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "22430.00"}
+{"reference": "txn-00038", "epoch": 1789501109, "total_value": "735900.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "25020.80"}
+{"reference": "txn-00039", "epoch": 1782330107, "total_value": "214056.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": ""}
+{"reference": "txn-00040", "epoch": 1782916208, "total_value": "400932.00", "ccy": "$", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "13631.89"}
+{"reference": "txn-00041", "epoch": 1783548990, "total_value": "935388.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "31803.39"}
+{"reference": "txn-00042", "epoch": 1784089615, "total_value": "320964.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "10912.98"}
+{"reference": "txn-00043", "epoch": 1784727028, "total_value": "814152.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "27681.37"}
+{"reference": "txn-00044", "epoch": 1785344026, "total_value": "205884.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "7000.26"}
+{"reference": "txn-00045", "epoch": 1785958638, "total_value": "258432.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "00", "processing_cost": "8786.89"}
+{"reference": "txn-00046", "epoch": 1786547247, "total_value": "106164.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "3609.78"}
+{"reference": "txn-00047", "epoch": 1787171814, "total_value": "762156.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "25913.50"}
+{"reference": "txn-00048", "epoch": 1787714603, "total_value": "391272.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "13303.45"}
+{"reference": "txn-00049", "epoch": 1788344616, "total_value": "233196.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "7928.86"}
+{"reference": "txn-00050", "epoch": 1788992422, "total_value": "909012.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "30906.61"}
+{"reference": "txn-00051", "epoch": 1789523615, "total_value": "1128900.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "38382.80"}
+{"reference": "txn-00052", "epoch": 1782386634, "total_value": "599988.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "20399.79"}
+{"reference": "txn-00053", "epoch": 1782957092, "total_value": "1067604.00", "ccy": "$", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "36298.74"}
+{"reference": "txn-00054", "epoch": 1783589545, "total_value": "1112856.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "37837.30"}
+{"reference": "txn-00055", "epoch": 1784165244, "total_value": "304392.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "10349.53"}
+{"reference": "txn-00056", "epoch": 1784807830, "total_value": "596292.00", "ccy": "ARS", "market": "AR", "instrument": "BANK_TRANSFER", "result": "00", "processing_cost": "20274.13"}
+{"reference": "txn-00057", "epoch": 1785385069, "total_value": "508668.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "17294.91"}
+{"reference": "txn-00058", "epoch": 1786001794, "total_value": "1040760.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": ""}
+{"reference": "txn-00059", "epoch": 1786653281, "total_value": "969468.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "32962.11"}
+{"reference": "txn-00060", "epoch": 1787192219, "total_value": "349608.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "09", "processing_cost": "11886.87"}
+{"reference": "txn-00061", "epoch": 1787805658, "total_value": "629364.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "21398.58"}
+{"reference": "txn-00062", "epoch": 1788434972, "total_value": "691116.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "23498.14"}
+{"reference": "txn-00063", "epoch": 1789006717, "total_value": "66036.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "2245.42"}
+{"reference": "txn-00064", "epoch": 1789664646, "total_value": "605220.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "20577.68"}
+{"reference": "txn-00065", "epoch": 1782508403, "total_value": "971532.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "33032.29"}
+{"reference": "txn-00066", "epoch": 1783094910, "total_value": "607272.00", "ccy": "$", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "20647.45"}
+{"reference": "txn-00067", "epoch": 1783657256, "total_value": "671268.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "00", "processing_cost": "22823.31"}
+{"reference": "txn-00068", "epoch": 1784256452, "total_value": "760884.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "25870.26"}
+{"reference": "txn-00069", "epoch": 1784869323, "total_value": "1101108.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "37437.87"}
+{"reference": "txn-00070", "epoch": 1785484277, "total_value": "697068.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "23700.51"}
+{"reference": "txn-00071", "epoch": 1786102259, "total_value": "714708.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "24300.27"}
+{"reference": "txn-00072", "epoch": 1786681850, "total_value": "411564.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "13993.38"}
+{"reference": "txn-00073", "epoch": 1787356061, "total_value": "488160.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "16597.64"}
+{"reference": "txn-00074", "epoch": 1787879033, "total_value": "709116.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "24110.14"}
+{"reference": "txn-00075", "epoch": 1788555174, "total_value": "695040.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "23631.56"}
+{"reference": "txn-00076", "epoch": 1789171083, "total_value": "1029072.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "34988.65"}
+{"reference": "txn-00077", "epoch": 1789726162, "total_value": "1017624.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": ""}
+{"reference": "txn-00078", "epoch": 1782531176, "total_value": "1101264.00", "ccy": "ARS", "market": "AR", "instrument": "BANK_TRANSFER", "result": "00", "processing_cost": "37443.18"}
+{"reference": "txn-00079", "epoch": 1783144899, "total_value": "633792.00", "ccy": "$", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "21549.13"}
+{"reference": "txn-00080", "epoch": 1783738989, "total_value": "240168.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "8165.91"}
+{"reference": "txn-00081", "epoch": 1784411523, "total_value": "92556.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "3147.10"}
+{"reference": "txn-00082", "epoch": 1784988233, "total_value": "67776.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "2304.58"}
+{"reference": "txn-00083", "epoch": 1785561715, "total_value": "492156.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "16733.50"}
+{"reference": "txn-00084", "epoch": 1786171466, "total_value": "963456.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "32757.70"}
+{"reference": "txn-00085", "epoch": 1786763698, "total_value": "584124.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "19860.42"}
+{"reference": "txn-00086", "epoch": 1787383787, "total_value": "953580.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "09", "processing_cost": "32421.92"}
+{"reference": "txn-00087", "epoch": 1787982154, "total_value": "440364.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "14972.58"}
+{"reference": "txn-00088", "epoch": 1788625191, "total_value": "695232.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "23638.09"}
+{"reference": "txn-00089", "epoch": 1789225262, "total_value": "620736.00", "ccy": "ARS", "market": "AR", "instrument": "CREDIT_CARD", "result": "00", "processing_cost": "21105.22"}
+{"reference": "txn-00090", "epoch": 1789835932, "total_value": "177732.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "6043.09"}
+{"reference": "txn-00091", "epoch": 1782608420, "total_value": "451668.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "R", "processing_cost": "15356.91"}
+{"reference": "txn-00092", "epoch": 1783224504, "total_value": "587580.00", "ccy": "$", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "19977.92"}
+{"reference": "txn-00093", "epoch": 1783897347, "total_value": "282528.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "9606.15"}
+{"reference": "txn-00094", "epoch": 1784447613, "total_value": "787740.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "26783.36"}
+{"reference": "txn-00095", "epoch": 1785055189, "total_value": "896160.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "30469.64"}
+{"reference": "txn-00096", "epoch": 1785643823, "total_value": "95580.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": ""}
+{"reference": "txn-00097", "epoch": 1786236419, "total_value": "195216.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "6637.54"}
+{"reference": "txn-00098", "epoch": 1786882092, "total_value": "765996.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "26044.06"}
+{"reference": "txn-00099", "epoch": 1787459404, "total_value": "333948.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "11354.43"}
+{"reference": "txn-00100", "epoch": 1788070189, "total_value": "959196.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "CREDIT_CARD", "result": "00", "processing_cost": "32612.86"}
+{"reference": "txn-00101", "epoch": 1788665217, "total_value": "523548.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "17800.83"}
+{"reference": "txn-00102", "epoch": 1789332959, "total_value": "1018668.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "34634.91"}
+{"reference": "txn-00103", "epoch": 1782109033, "total_value": "1117824.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "38006.22"}
+{"reference": "txn-00104", "epoch": 1782698319, "total_value": "252396.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "8581.66"}
+{"reference": "txn-00105", "epoch": 1783334209, "total_value": "241836.00", "ccy": "$", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "8222.62"}
+{"reference": "txn-00106", "epoch": 1783924626, "total_value": "532164.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "18093.78"}
+{"reference": "txn-00107", "epoch": 1784578992, "total_value": "376488.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "12800.79"}
+{"reference": "txn-00108", "epoch": 1785153616, "total_value": "289428.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "9840.75"}
+{"reference": "txn-00109", "epoch": 1785753480, "total_value": "996852.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "33893.17"}
+{"reference": "txn-00110", "epoch": 1786348029, "total_value": "785760.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "26716.04"}
+{"reference": "txn-00111", "epoch": 1787005985, "total_value": "398736.00", "ccy": "ARS", "market": "AR", "instrument": "BANK_TRANSFER", "result": "05", "processing_cost": "13557.22"}
+{"reference": "txn-00112", "epoch": 1787582661, "total_value": "884532.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "30074.29"}
+{"reference": "txn-00113", "epoch": 1788193952, "total_value": "531396.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "18067.66"}
+{"reference": "txn-00114", "epoch": 1788753512, "total_value": "1120752.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "38105.77"}
+{"reference": "txn-00115", "epoch": 1789410904, "total_value": "453156.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": ""}
+{"reference": "txn-00116", "epoch": 1782215331, "total_value": "268584.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "9132.06"}
+{"reference": "txn-00117", "epoch": 1782862240, "total_value": "955788.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "32496.99"}
+{"reference": "txn-00118", "epoch": 1783429460, "total_value": "737220.00", "ccy": "$", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "25065.68"}
+{"reference": "txn-00119", "epoch": 1784052014, "total_value": "409836.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "13934.62"}
+{"reference": "txn-00120", "epoch": 1784616757, "total_value": "320856.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "10909.30"}
+{"reference": "txn-00121", "epoch": 1785228830, "total_value": "840060.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "28562.24"}
+{"reference": "txn-00122", "epoch": 1785886758, "total_value": "186720.00", "ccy": "ARS", "market": "AR", "instrument": "BANK_TRANSFER", "result": "00", "processing_cost": "6348.68"}
+{"reference": "txn-00123", "epoch": 1786461874, "total_value": "432096.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "14691.46"}
+{"reference": "txn-00124", "epoch": 1787016223, "total_value": "1048212.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "35639.41"}
+{"reference": "txn-00125", "epoch": 1787678816, "total_value": "818064.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "27814.38"}
+{"reference": "txn-00126", "epoch": 1788242670, "total_value": "1006992.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "34237.93"}
+{"reference": "txn-00127", "epoch": 1788854742, "total_value": "979212.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "33293.41"}
+{"reference": "txn-00128", "epoch": 1789463275, "total_value": "521196.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "17720.86"}
+{"reference": "txn-00129", "epoch": 1782319292, "total_value": "665832.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "22638.49"}
+{"reference": "txn-00130", "epoch": 1782889421, "total_value": "940512.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "31977.61"}
+{"reference": "txn-00131", "epoch": 1783476665, "total_value": "185988.00", "ccy": "$", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "6323.79"}
+{"reference": "txn-00132", "epoch": 1784094572, "total_value": "333852.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "11351.17"}
+{"reference": "txn-00133", "epoch": 1784748854, "total_value": "1089588.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "00", "processing_cost": "37046.19"}
+{"reference": "txn-00134", "epoch": 1785329646, "total_value": "803604.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "09", "processing_cost": ""}
+{"reference": "txn-00135", "epoch": 1785952471, "total_value": "441456.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "15009.70"}
+{"reference": "txn-00136", "epoch": 1786576333, "total_value": "144372.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "4908.85"}
+{"reference": "txn-00137", "epoch": 1787100246, "total_value": "552552.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "18786.97"}
+{"reference": "txn-00138", "epoch": 1787769681, "total_value": "500364.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "17012.58"}
+{"reference": "txn-00139", "epoch": 1788381707, "total_value": "1004424.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "34150.62"}
+{"reference": "txn-00140", "epoch": 1788996106, "total_value": "249624.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "8487.42"}
+{"reference": "txn-00141", "epoch": 1789535827, "total_value": "790668.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "26882.91"}
+{"reference": "txn-00142", "epoch": 1782423643, "total_value": "165348.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "5622.03"}
+{"reference": "txn-00143", "epoch": 1783012585, "total_value": "57816.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "1965.94"}
+{"reference": "txn-00144", "epoch": 1783636122, "total_value": "210996.00", "ccy": "$", "market": "AR", "instrument": "CREDIT_CARD", "result": "05", "processing_cost": "7174.06"}
+{"reference": "txn-00145", "epoch": 1784197557, "total_value": "803760.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "27328.04"}
+{"reference": "txn-00146", "epoch": 1784800411, "total_value": "1059756.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "36031.90"}
+{"reference": "txn-00147", "epoch": 1785396081, "total_value": "272772.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "9274.45"}
+{"reference": "txn-00148", "epoch": 1786032933, "total_value": "302232.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "10276.09"}
+{"reference": "txn-00149", "epoch": 1786632260, "total_value": "247764.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "8424.18"}
+{"reference": "txn-00150", "epoch": 1787203851, "total_value": "933624.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "31743.42"}
+{"reference": "txn-00151", "epoch": 1787868009, "total_value": "515496.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "17527.06"}
+{"reference": "txn-00152", "epoch": 1788462358, "total_value": "985236.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "33498.22"}
+{"reference": "txn-00153", "epoch": 1789075700, "total_value": "981864.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": ""}
+{"reference": "txn-00154", "epoch": 1789680478, "total_value": "1084728.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "36880.95"}
+{"reference": "txn-00155", "epoch": 1782455923, "total_value": "930276.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "00", "processing_cost": "31629.58"}
+{"reference": "txn-00156", "epoch": 1783048020, "total_value": "80172.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "2726.05"}
+{"reference": "txn-00157", "epoch": 1783670844, "total_value": "669864.00", "ccy": "$", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "22775.58"}
+{"reference": "txn-00158", "epoch": 1784264012, "total_value": "317964.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "10810.98"}
+{"reference": "txn-00159", "epoch": 1784892010, "total_value": "612276.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "20817.58"}
+{"reference": "txn-00160", "epoch": 1785487443, "total_value": "859572.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "29225.65"}
+{"reference": "txn-00161", "epoch": 1786111814, "total_value": "111960.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "3806.84"}
+{"reference": "txn-00162", "epoch": 1786687982, "total_value": "990816.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "33687.94"}
+{"reference": "txn-00163", "epoch": 1787334123, "total_value": "569640.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "19367.96"}
+{"reference": "txn-00164", "epoch": 1787946996, "total_value": "561792.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "19101.13"}
+{"reference": "txn-00165", "epoch": 1788485183, "total_value": "1130580.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "38439.92"}
+{"reference": "txn-00166", "epoch": 1789102693, "total_value": "412824.00", "ccy": "ARS", "market": "AR", "instrument": "BANK_TRANSFER", "result": "00", "processing_cost": "14036.22"}
+{"reference": "txn-00167", "epoch": 1789716978, "total_value": "150924.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "5131.62"}
+{"reference": "txn-00168", "epoch": 1782570236, "total_value": "795432.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "27044.89"}
+{"reference": "txn-00169", "epoch": 1783166867, "total_value": "548172.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "R", "processing_cost": "18638.05"}
+{"reference": "txn-00170", "epoch": 1783765704, "total_value": "435480.00", "ccy": "$", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "14806.52"}
+{"reference": "txn-00171", "epoch": 1784391236, "total_value": "592932.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "20159.89"}
+{"reference": "txn-00172", "epoch": 1784979943, "total_value": "615072.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": ""}
+{"reference": "txn-00173", "epoch": 1785573922, "total_value": "73128.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "2486.55"}
+{"reference": "txn-00174", "epoch": 1786210765, "total_value": "1095516.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "37247.74"}
+{"reference": "txn-00175", "epoch": 1786763272, "total_value": "439356.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "14938.30"}
+{"reference": "txn-00176", "epoch": 1787362381, "total_value": "568272.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "19321.45"}
+{"reference": "txn-00177", "epoch": 1788043237, "total_value": "135660.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "05", "processing_cost": "4612.64"}
+{"reference": "txn-00178", "epoch": 1788636035, "total_value": "433296.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "14732.26"}
+{"reference": "txn-00179", "epoch": 1789188752, "total_value": "420552.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "14298.97"}
+{"reference": "txn-00180", "epoch": 1789791816, "total_value": "392880.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "13358.12"}
+{"reference": "txn-00181", "epoch": 1782634861, "total_value": "528252.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "17960.77"}
+{"reference": "txn-00182", "epoch": 1783289547, "total_value": "1032852.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "35117.17"}
+{"reference": "txn-00183", "epoch": 1783862266, "total_value": "1014816.00", "ccy": "$", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "34503.94"}
+{"reference": "txn-00184", "epoch": 1784479007, "total_value": "756264.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "25713.18"}
+{"reference": "txn-00185", "epoch": 1785084701, "total_value": "805980.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "27403.52"}
+{"reference": "txn-00186", "epoch": 1785692382, "total_value": "637476.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "21674.38"}
+{"reference": "txn-00187", "epoch": 1786293964, "total_value": "198504.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "6749.34"}
+{"reference": "txn-00188", "epoch": 1786867102, "total_value": "1139196.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "00", "processing_cost": "38732.86"}
+{"reference": "txn-00189", "epoch": 1787491730, "total_value": "1034676.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "35179.18"}
+{"reference": "txn-00190", "epoch": 1788110847, "total_value": "173244.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "5890.50"}
+{"reference": "txn-00191", "epoch": 1788668139, "total_value": "199392.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": ""}
+{"reference": "txn-00192", "epoch": 1789289673, "total_value": "414900.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "14106.80"}
+{"reference": "txn-00193", "epoch": 1782129880, "total_value": "901608.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "30654.87"}
+{"reference": "txn-00194", "epoch": 1782702609, "total_value": "627252.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "21326.77"}
+{"reference": "txn-00195", "epoch": 1783313959, "total_value": "511968.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "17407.11"}
+{"reference": "txn-00196", "epoch": 1783981425, "total_value": "64968.00", "ccy": "$", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "2209.11"}
+{"reference": "txn-00197", "epoch": 1784583829, "total_value": "761136.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "25878.82"}
+{"reference": "txn-00198", "epoch": 1785121517, "total_value": "557376.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "R", "processing_cost": "18950.98"}
+{"reference": "txn-00199", "epoch": 1785748420, "total_value": "1093992.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "DEBIT_CARD", "result": "00", "processing_cost": "37195.93"}
+{"reference": "txn-00200", "epoch": 1786397517, "total_value": "195000.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "6630.20"}
+{"reference": "txn-00201", "epoch": 1786930046, "total_value": "1114632.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "37897.69"}
+{"reference": "txn-00202", "epoch": 1787547037, "total_value": "1077972.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "36651.25"}
+{"reference": "txn-00203", "epoch": 1788173074, "total_value": "932436.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "R", "processing_cost": "31703.02"}
+{"reference": "txn-00204", "epoch": 1788761100, "total_value": "556728.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "05", "processing_cost": "18928.95"}
+{"reference": "txn-00205", "epoch": 1789360673, "total_value": "686028.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "23325.15"}
+{"reference": "txn-00206", "epoch": 1782252347, "total_value": "443712.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "15086.41"}
+{"reference": "txn-00207", "epoch": 1782824186, "total_value": "883176.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "30028.18"}
+{"reference": "txn-00208", "epoch": 1783393257, "total_value": "132180.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "4494.32"}
+{"reference": "txn-00209", "epoch": 1784066182, "total_value": "438804.00", "ccy": "$", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "14919.54"}
+{"reference": "txn-00210", "epoch": 1784662188, "total_value": "916068.00", "ccy": "ARS", "market": "AR", "instrument": "DEBIT_CARD", "result": "00", "processing_cost": ""}
+{"reference": "txn-00211", "epoch": 1785245260, "total_value": "246552.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "8382.97"}
+{"reference": "txn-00212", "epoch": 1785836635, "total_value": "98352.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "3344.17"}
+{"reference": "txn-00213", "epoch": 1786481118, "total_value": "367128.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "12482.55"}
+{"reference": "txn-00214", "epoch": 1787024824, "total_value": "939048.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "31927.83"}
+{"reference": "txn-00215", "epoch": 1787687341, "total_value": "377256.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "12826.90"}
+{"reference": "txn-00216", "epoch": 1788224251, "total_value": "515196.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "17516.86"}
+{"reference": "txn-00217", "epoch": 1788841514, "total_value": "833688.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "28345.59"}
+{"reference": "txn-00218", "epoch": 1789432715, "total_value": "1104600.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "37556.60"}
+{"reference": "txn-00219", "epoch": 1782287928, "total_value": "829680.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "28209.32"}
+{"reference": "txn-00220", "epoch": 1782934801, "total_value": "260748.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "8865.63"}
+{"reference": "txn-00221", "epoch": 1783531261, "total_value": "402888.00", "ccy": "ARS", "market": "AR", "instrument": "CREDIT_CARD", "result": "00", "processing_cost": "13698.39"}
+{"reference": "txn-00222", "epoch": 1784115161, "total_value": "492612.00", "ccy": "$", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "16749.01"}
+{"reference": "txn-00223", "epoch": 1784724339, "total_value": "446748.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "15189.63"}
+{"reference": "txn-00224", "epoch": 1785333817, "total_value": "850044.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "28901.70"}
+{"reference": "txn-00225", "epoch": 1785916280, "total_value": "554652.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "05", "processing_cost": "18858.37"}
+{"reference": "txn-00226", "epoch": 1786535323, "total_value": "85740.00", "ccy": "Argentine Peso", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "2915.36"}
+{"reference": "txn-00227", "epoch": 1787108516, "total_value": "1041924.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "35425.62"}
+{"reference": "txn-00228", "epoch": 1787747042, "total_value": "239112.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "8130.01"}
+{"reference": "txn-00229", "epoch": 1788315111, "total_value": "864372.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": ""}
+{"reference": "txn-00230", "epoch": 1788990280, "total_value": "512676.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "17431.18"}
+{"reference": "txn-00231", "epoch": 1789538656, "total_value": "399348.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "13578.03"}
+{"reference": "txn-00232", "epoch": 1782384336, "total_value": "905892.00", "ccy": "ARS", "market": "AR", "instrument": "BANK_TRANSFER", "result": "00", "processing_cost": "30800.53"}
+{"reference": "txn-00233", "epoch": 1783006472, "total_value": "148752.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "5057.77"}
+{"reference": "txn-00234", "epoch": 1783599717, "total_value": "475896.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "16180.66"}
+{"reference": "txn-00235", "epoch": 1784244222, "total_value": "308940.00", "ccy": "$", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "10504.16"}
+{"reference": "txn-00236", "epoch": 1784810655, "total_value": "797004.00", "ccy": "ARS", "market": "AR", "instrument": "credit_card", "result": "00", "processing_cost": "27098.34"}
+{"reference": "txn-00237", "epoch": 1785424757, "total_value": "896796.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "30491.26"}
+{"reference": "txn-00238", "epoch": 1786051701, "total_value": "435720.00", "ccy": "ARS", "market": "AR", "instrument": "debit_card", "result": "00", "processing_cost": "14814.68"}
+{"reference": "txn-00239", "epoch": 1786634638, "total_value": "557580.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "05", "processing_cost": "18957.92"}
+{"reference": "txn-00240", "epoch": 1787226253, "total_value": "675264.00", "ccy": "ARS", "market": "AR", "instrument": "bank_transfer", "result": "00", "processing_cost": "22959.18"}
+{"reference": "txn-00001", "epoch": 1782658779, "total_value": "256692.00", "ccy": "$", "market": "AR", "instrument": "BANK_TRANSFER", "result": "05", "processing_cost": ""}

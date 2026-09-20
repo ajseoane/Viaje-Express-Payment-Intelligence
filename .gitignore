@@ -1,0 +1,21 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Credentials and machine-local settings
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Temporary database files and local review runs
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+data/review-run/
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,81 @@
+{
+  "started_at": "2026-09-20T16:33:03.259664+00:00",
+  "sources": [
+    {
+      "psp": "PSP1",
+      "file": "psp1.json",
+      "rows": 241,
+      "inserted": 0,
+      "duplicates": 238,
+      "rejected": 3,
+      "missing_fees": 0,
+      "warnings": 0,
+      "validity_pct": 98.76,
+      "fee_completeness_pct": null
+    },
+    {
+      "psp": "PSP2",
+      "file": "psp2.csv",
+      "rows": 241,
+      "inserted": 0,
+      "duplicates": 238,
+      "rejected": 3,
+      "missing_fees": 0,
+      "warnings": 0,
+      "validity_pct": 98.76,
+      "fee_completeness_pct": null
+    },
+    {
+      "psp": "PSP3",
+      "file": "psp3.jsonl",
+      "rows": 241,
+      "inserted": 0,
+      "duplicates": 238,
+      "rejected": 3,
+      "missing_fees": 0,
+      "warnings": 0,
+      "validity_pct": 98.76,
+      "fee_completeness_pct": null
+    },
+    {
+      "psp": "PSP4",
+      "file": "psp4.xml",
+      "rows": 241,
+      "inserted": 0,
+      "duplicates": 238,
+      "rejected": 3,
+      "missing_fees": 0,
+      "warnings": 0,
+      "validity_pct": 98.76,
+      "fee_completeness_pct": null
+    },
+    {
+      "psp": "PSP5",
+      "file": "psp5.csv",
+      "rows": 241,
+      "inserted": 0,
+      "duplicates": 238,
+      "rejected": 3,
+      "missing_fees": 0,
+      "warnings": 0,
+      "validity_pct": 98.76,
+      "fee_completeness_pct": null
+    },
+    {
+      "psp": "PSP6",
+      "file": "psp6.jsonl",
+      "rows": 241,
+      "inserted": 0,
+      "duplicates": 238,
+      "rejected": 3,
+      "missing_fees": 0,
+      "warnings": 0,
+      "validity_pct": 98.76,
+      "fee_completeness_pct": null
+    }
+  ],
+  "inserted": 0,
+  "duplicates": 1428,
+  "rejected": 18,
+  "total_transactions": 1422
+}

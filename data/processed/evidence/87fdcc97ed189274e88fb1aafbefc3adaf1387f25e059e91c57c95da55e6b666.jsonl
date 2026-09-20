@@ -1,0 +1,241 @@
+{"event_id": "txn-00001", "timestamp": 1783389763, "amount_minor": 1443140, "currency": "$", "country": "MX", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00002", "timestamp": 1784037551, "amount_minor": 330624, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 9608}
+{"event_id": "txn-00003", "timestamp": 1784663648, "amount_minor": 37142400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1077150}
+{"event_id": "txn-00004", "timestamp": 1785208906, "amount_minor": 67196000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 1948704}
+{"event_id": "txn-00005", "timestamp": 1785871935, "amount_minor": 13863, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 422}
+{"event_id": "txn-00006", "timestamp": 1786429367, "amount_minor": 46674, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1374}
+{"event_id": "txn-00007", "timestamp": 1787078700, "amount_minor": 463520, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 13462}
+{"event_id": "txn-00008", "timestamp": "32/13/2026", "amount_minor": 220134, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 6404}
+{"event_id": "txn-00009", "timestamp": 1788300826, "amount_minor": 14491200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": 420265}
+{"event_id": "txn-00010", "timestamp": 1788906084, "amount_minor": 34872000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "402", "fee_minor": 1011308}
+{"event_id": "txn-00011", "timestamp": 1789463908, "amount_minor": 52953, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1556}
+{"event_id": "txn-00012", "timestamp": 1782269356, "amount_minor": 72199, "currency": "EUR", "country": "PT", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 2114}
+{"event_id": "txn-00013", "timestamp": 1782938242, "amount_minor": 1269660, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 36840}
+{"event_id": "txn-00014", "timestamp": 1783515482, "amount_minor": 452676, "currency": "$", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 13148}
+{"event_id": "txn-00015", "timestamp": 1784075997, "amount_minor": 35280000, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1023140}
+{"event_id": "txn-00016", "timestamp": 1784711070, "amount_minor": 51212000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 1485168}
+{"event_id": "txn-00017", "timestamp": 1785367802, "amount_minor": 43074, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1269}
+{"event_id": "txn-00018", "timestamp": 1785947385, "amount_minor": "", "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 2753}
+{"event_id": "txn-00019", "timestamp": 1786538358, "amount_minor": 372620, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 10826}
+{"event_id": "txn-00020", "timestamp": 1787134271, "amount_minor": 56556, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00021", "timestamp": 1787749702, "amount_minor": 30206400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 876006}
+{"event_id": "txn-00022", "timestamp": 1788335639, "amount_minor": 231036000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 6700064}
+{"event_id": "txn-00023", "timestamp": 1788930296, "amount_minor": 68161, "currency": "EUR", "country": "ES", "wallet": "DIGITAL_WALLET", "code": "402", "fee_minor": 1997}
+{"event_id": "txn-00024", "timestamp": 1789577999, "amount_minor": 29831, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 885}
+{"event_id": "txn-00025", "timestamp": 1782415828, "amount_minor": 1627000, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 47203}
+{"event_id": "txn-00026", "timestamp": 1783033650, "amount_minor": 180876, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "402", "fee_minor": 5265}
+{"event_id": "txn-00027", "timestamp": 1783615775, "amount_minor": 95998800, "currency": "$", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2783985}
+{"event_id": "txn-00028", "timestamp": 1784181197, "amount_minor": 275396000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "UNRECOGNIZED", "fee_minor": 7986504}
+{"event_id": "txn-00029", "timestamp": 1784781483, "amount_minor": 47223, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1389}
+{"event_id": "txn-00030", "timestamp": 1785396897, "amount_minor": 74745, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 2188}
+{"event_id": "txn-00031", "timestamp": 1785977751, "amount_minor": 1296140, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "299", "fee_minor": 37608}
+{"event_id": "txn-00032", "timestamp": 1786615951, "amount_minor": 282426, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 8210}
+{"event_id": "txn-00033", "timestamp": 1787207216, "amount_minor": 73102800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2120001}
+{"event_id": "txn-00034", "timestamp": 1787855578, "amount_minor": 225076000, "currency": "COP", "country": "CO", "wallet": "DIGITAL_WALLET", "code": "402", "fee_minor": 6527224}
+{"event_id": "txn-00035", "timestamp": 1788455001, "amount_minor": 60326, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1769}
+{"event_id": "txn-00036", "timestamp": 1789076722, "amount_minor": 64152, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1880}
+{"event_id": "txn-00037", "timestamp": 1789615800, "amount_minor": 695740, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 20196}
+{"event_id": "txn-00038", "timestamp": 1782515590, "amount_minor": 288666, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 8391}
+{"event_id": "txn-00039", "timestamp": 1783067720, "amount_minor": 83284800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": ""}
+{"event_id": "txn-00040", "timestamp": 1783648709, "amount_minor": 296868000, "currency": "$", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 8609192}
+{"event_id": "txn-00041", "timestamp": 1784293626, "amount_minor": 46941, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1381}
+{"event_id": "txn-00042", "timestamp": 1784859444, "amount_minor": 84543, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 2472}
+{"event_id": "txn-00043", "timestamp": 1785488666, "amount_minor": 1089300, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 31610}
+{"event_id": "txn-00044", "timestamp": 1786128681, "amount_minor": 466374, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 13545}
+{"event_id": "txn-00045", "timestamp": 1786726467, "amount_minor": 17324400, "currency": "ARS", "country": "AR", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 502428}
+{"event_id": "txn-00046", "timestamp": 1787356434, "amount_minor": 304776000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 8838524}
+{"event_id": "txn-00047", "timestamp": 1787959682, "amount_minor": 11388, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 350}
+{"event_id": "txn-00048", "timestamp": 1788491828, "amount_minor": 43709, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1288}
+{"event_id": "txn-00049", "timestamp": 1789124867, "amount_minor": 205620, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 5983}
+{"event_id": "txn-00050", "timestamp": 1789755724, "amount_minor": 248166, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 7217}
+{"event_id": "txn-00051", "timestamp": 1782524980, "amount_minor": 108620400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 3150012}
+{"event_id": "txn-00052", "timestamp": 1783207525, "amount_minor": 213656000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 6196044}
+{"event_id": "txn-00053", "timestamp": 1783769641, "amount_minor": 39579, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1168}
+{"event_id": "txn-00054", "timestamp": 1784385519, "amount_minor": 12022, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "402", "fee_minor": 369}
+{"event_id": "txn-00055", "timestamp": 1785007193, "amount_minor": 1079360, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 31321}
+{"event_id": "txn-00056", "timestamp": 1785565055, "amount_minor": 270858, "currency": "BRL", "country": "BR", "wallet": "DIGITAL_WALLET", "code": "299", "fee_minor": 7875}
+{"event_id": "txn-00057", "timestamp": 1786151158, "amount_minor": 5961600, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 172906}
+{"event_id": "txn-00058", "timestamp": 1786803026, "amount_minor": 271384000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00059", "timestamp": 1787409493, "amount_minor": 54406, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1598}
+{"event_id": "txn-00060", "timestamp": 1788047414, "amount_minor": 23767, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 709}
+{"event_id": "txn-00061", "timestamp": 1788634623, "amount_minor": 187880, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 5469}
+{"event_id": "txn-00062", "timestamp": 1789257442, "amount_minor": 140100, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 4083}
+{"event_id": "txn-00063", "timestamp": 1789802910, "amount_minor": 89090400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2583642}
+{"event_id": "txn-00064", "timestamp": 1782675167, "amount_minor": 249680000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 7240740}
+{"event_id": "txn-00065", "timestamp": 1783272746, "amount_minor": 16517, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 499}
+{"event_id": "txn-00066", "timestamp": 1783839668, "amount_minor": 30644, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 909}
+{"event_id": "txn-00067", "timestamp": 1784448822, "amount_minor": 592180, "currency": "MXN", "country": "MX", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 17193}
+{"event_id": "txn-00068", "timestamp": 1785087728, "amount_minor": 84564, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2472}
+{"event_id": "txn-00069", "timestamp": 1785664785, "amount_minor": 111945600, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 3246442}
+{"event_id": "txn-00070", "timestamp": 1786252305, "amount_minor": 93124000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 2700616}
+{"event_id": "txn-00071", "timestamp": 1786884418, "amount_minor": 80745, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2362}
+{"event_id": "txn-00072", "timestamp": 1787459335, "amount_minor": 17317, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "102", "fee_minor": 522}
+{"event_id": "txn-00073", "timestamp": 1788083237, "amount_minor": 372060, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 10810}
+{"event_id": "txn-00074", "timestamp": 1788706275, "amount_minor": 454236, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 13193}
+{"event_id": "txn-00075", "timestamp": 1789333333, "amount_minor": 65515200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1899961}
+{"event_id": "txn-00076", "timestamp": 1782106186, "amount_minor": 308152000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 8936428}
+{"event_id": "txn-00077", "timestamp": 1782700127, "amount_minor": 50413, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00078", "timestamp": 1783320761, "amount_minor": 13838, "currency": "EUR", "country": "PT", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 421}
+{"event_id": "txn-00079", "timestamp": 1783973287, "amount_minor": 1854620, "currency": "$", "country": "MX", "wallet": "digital_wallet", "code": "402", "fee_minor": 53804}
+{"event_id": "txn-00080", "timestamp": 1784535818, "amount_minor": 353532, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 10272}
+{"event_id": "txn-00081", "timestamp": 1785132048, "amount_minor": 108670800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 3151473}
+{"event_id": "txn-00082", "timestamp": 1785736138, "amount_minor": 206616000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 5991884}
+{"event_id": "txn-00083", "timestamp": 1786352386, "amount_minor": 77953, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2281}
+{"event_id": "txn-00084", "timestamp": 1787005517, "amount_minor": 58547, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1718}
+{"event_id": "txn-00085", "timestamp": 1787563293, "amount_minor": 473280, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 13745}
+{"event_id": "txn-00086", "timestamp": 1788152951, "amount_minor": 272892, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 7934}
+{"event_id": "txn-00087", "timestamp": 1788760908, "amount_minor": 93182400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": 2702310}
+{"event_id": "txn-00088", "timestamp": 1789344045, "amount_minor": 74084000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 2148456}
+{"event_id": "txn-00089", "timestamp": 1782231086, "amount_minor": 22378, "currency": "EUR", "country": "ES", "wallet": "DIGITAL_WALLET", "code": "402", "fee_minor": 669}
+{"event_id": "txn-00090", "timestamp": 1782858590, "amount_minor": 10561, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 326}
+{"event_id": "txn-00091", "timestamp": 1783447245, "amount_minor": 134940, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 3933}
+{"event_id": "txn-00092", "timestamp": 1784021488, "amount_minor": 190446, "currency": "$", "country": "BR", "wallet": "digital_wallet", "code": "402", "fee_minor": 5543}
+{"event_id": "txn-00093", "timestamp": 1784599740, "amount_minor": 69349200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": 2011147}
+{"event_id": "txn-00094", "timestamp": 1785198293, "amount_minor": 70112000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 2033268}
+{"event_id": "txn-00095", "timestamp": 1785820501, "amount_minor": 70227, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2057}
+{"event_id": "txn-00096", "timestamp": 1786437999, "amount_minor": 60654, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00097", "timestamp": 1787088730, "amount_minor": 1262360, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 36628}
+{"event_id": "txn-00098", "timestamp": 1787631423, "amount_minor": 75498, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2209}
+{"event_id": "txn-00099", "timestamp": 1788235423, "amount_minor": 52087200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1510549}
+{"event_id": "txn-00100", "timestamp": 1788909702, "amount_minor": 280672000, "currency": "Colombian Peso", "country": "CO", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 8139508}
+{"event_id": "txn-00101", "timestamp": 1789432087, "amount_minor": 44091, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1299}
+{"event_id": "txn-00102", "timestamp": 1782325087, "amount_minor": 17245, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 520}
+{"event_id": "txn-00103", "timestamp": 1782901720, "amount_minor": 879360, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 25521}
+{"event_id": "txn-00104", "timestamp": 1783522172, "amount_minor": 528504, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 15347}
+{"event_id": "txn-00105", "timestamp": 1784140514, "amount_minor": 43669200, "currency": "$", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1266427}
+{"event_id": "txn-00106", "timestamp": 1784736825, "amount_minor": 47420000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 1375200}
+{"event_id": "txn-00107", "timestamp": 1785317594, "amount_minor": 68702, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2012}
+{"event_id": "txn-00108", "timestamp": 1785931016, "amount_minor": 17159, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 518}
+{"event_id": "txn-00109", "timestamp": 1786504036, "amount_minor": 1575240, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 45702}
+{"event_id": "txn-00110", "timestamp": 1787169007, "amount_minor": 443016, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 12867}
+{"event_id": "txn-00111", "timestamp": 1787787871, "amount_minor": 88459200, "currency": "ARS", "country": "AR", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 2565337}
+{"event_id": "txn-00112", "timestamp": 1788377917, "amount_minor": 173508000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "402", "fee_minor": 5031752}
+{"event_id": "txn-00113", "timestamp": 1788936456, "amount_minor": 20484, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 614}
+{"event_id": "txn-00114", "timestamp": 1789587949, "amount_minor": 21913, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "402", "fee_minor": 655}
+{"event_id": "txn-00115", "timestamp": 1782387289, "amount_minor": 805760, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00116", "timestamp": 1782951328, "amount_minor": 98724, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2883}
+{"event_id": "txn-00117", "timestamp": 1783610722, "amount_minor": 109105200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "102", "fee_minor": 3164071}
+{"event_id": "txn-00118", "timestamp": 1784196073, "amount_minor": 315864000, "currency": "$", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 9160076}
+{"event_id": "txn-00119", "timestamp": 1784840927, "amount_minor": 43195, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1273}
+{"event_id": "txn-00120", "timestamp": 1785446722, "amount_minor": 51174, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1504}
+{"event_id": "txn-00121", "timestamp": 1786014992, "amount_minor": 1547900, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 44909}
+{"event_id": "txn-00122", "timestamp": 1786610818, "amount_minor": 186654, "currency": "BRL", "country": "BR", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 5433}
+{"event_id": "txn-00123", "timestamp": 1787214719, "amount_minor": 76578000, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": 2220782}
+{"event_id": "txn-00124", "timestamp": 1787853202, "amount_minor": 55636000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 1613464}
+{"event_id": "txn-00125", "timestamp": 1788431466, "amount_minor": 39459, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1164}
+{"event_id": "txn-00126", "timestamp": 1789022733, "amount_minor": 72058, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 2110}
+{"event_id": "txn-00127", "timestamp": 1789681158, "amount_minor": 355160, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 10320}
+{"event_id": "txn-00128", "timestamp": 1782459355, "amount_minor": 478632, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 13900}
+{"event_id": "txn-00129", "timestamp": 1783083370, "amount_minor": 60094800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1742769}
+{"event_id": "txn-00130", "timestamp": 1783710779, "amount_minor": 245936000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 7132164}
+{"event_id": "txn-00131", "timestamp": 1784262718, "amount_minor": 51859, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1524}
+{"event_id": "txn-00132", "timestamp": 1784875038, "amount_minor": 32237, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 955}
+{"event_id": "txn-00133", "timestamp": 1785504040, "amount_minor": 331860, "currency": "MXN", "country": "MX", "wallet": "DIGITAL_WALLET", "code": "402", "fee_minor": 9644}
+{"event_id": "txn-00134", "timestamp": 1786110286, "amount_minor": 57768, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "102", "fee_minor": ""}
+{"event_id": "txn-00135", "timestamp": 1786742260, "amount_minor": 86424000, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2506316}
+{"event_id": "txn-00136", "timestamp": 1787305904, "amount_minor": 214380000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "402", "fee_minor": 6217040}
+{"event_id": "txn-00137", "timestamp": 1787880124, "amount_minor": 71246, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2086}
+{"event_id": "txn-00138", "timestamp": 1788529645, "amount_minor": 21405, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 641}
+{"event_id": "txn-00139", "timestamp": 1789109780, "amount_minor": 432240, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 12555}
+{"event_id": "txn-00140", "timestamp": 1789692643, "amount_minor": 405912, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 11791}
+{"event_id": "txn-00141", "timestamp": 1782578453, "amount_minor": 11017200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 319519}
+{"event_id": "txn-00142", "timestamp": 1783129059, "amount_minor": 248532000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "102", "fee_minor": 7207448}
+{"event_id": "txn-00143", "timestamp": 1783739563, "amount_minor": 43072, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "402", "fee_minor": 1269}
+{"event_id": "txn-00144", "timestamp": 1784380639, "amount_minor": 28722, "currency": "EUR", "country": "PT", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 853}
+{"event_id": "txn-00145", "timestamp": 1785017706, "amount_minor": 114780, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 3349}
+{"event_id": "txn-00146", "timestamp": 1785561424, "amount_minor": 495990, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 14404}
+{"event_id": "txn-00147", "timestamp": 1786149916, "amount_minor": 80800800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": 2343243}
+{"event_id": "txn-00148", "timestamp": 1786752034, "amount_minor": 105192000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 3050588}
+{"event_id": "txn-00149", "timestamp": 1787369620, "amount_minor": 37851, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1118}
+{"event_id": "txn-00150", "timestamp": 1787983099, "amount_minor": 15225, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 462}
+{"event_id": "txn-00151", "timestamp": 1788581370, "amount_minor": 240880, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 7006}
+{"event_id": "txn-00152", "timestamp": 1789256972, "amount_minor": 319440, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 9284}
+{"event_id": "txn-00153", "timestamp": 1789815286, "amount_minor": 46579200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": ""}
+{"event_id": "txn-00154", "timestamp": 1782681647, "amount_minor": 210892000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "402", "fee_minor": 6115888}
+{"event_id": "txn-00155", "timestamp": 1783240357, "amount_minor": 11652, "currency": "EUR", "country": "ES", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 358}
+{"event_id": "txn-00156", "timestamp": 1783815597, "amount_minor": 90734, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 2651}
+{"event_id": "txn-00157", "timestamp": 1784461468, "amount_minor": 1788080, "currency": "$", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 51874}
+{"event_id": "txn-00158", "timestamp": 1785100749, "amount_minor": 207258, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 6030}
+{"event_id": "txn-00159", "timestamp": 1785711489, "amount_minor": 30010800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 870333}
+{"event_id": "txn-00160", "timestamp": 1786276089, "amount_minor": 113592000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 3294188}
+{"event_id": "txn-00161", "timestamp": 1786908960, "amount_minor": 50474, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1484}
+{"event_id": "txn-00162", "timestamp": 1787484184, "amount_minor": 6641, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 213}
+{"event_id": "txn-00163", "timestamp": 1788126713, "amount_minor": 460700, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "402", "fee_minor": 13380}
+{"event_id": "txn-00164", "timestamp": 1788725535, "amount_minor": 221808, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "402", "fee_minor": 6452}
+{"event_id": "txn-00165", "timestamp": 1789326288, "amount_minor": 72490800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2102253}
+{"event_id": "txn-00166", "timestamp": 1782162554, "amount_minor": 164564000, "currency": "COP", "country": "CO", "wallet": "DIGITAL_WALLET", "code": "102", "fee_minor": 4772376}
+{"event_id": "txn-00167", "timestamp": 1782725312, "amount_minor": 18083, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 544}
+{"event_id": "txn-00168", "timestamp": 1783302840, "amount_minor": 67608, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1981}
+{"event_id": "txn-00169", "timestamp": 1783965720, "amount_minor": 1657060, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 48075}
+{"event_id": "txn-00170", "timestamp": 1784524003, "amount_minor": 58068, "currency": "$", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1704}
+{"event_id": "txn-00171", "timestamp": 1785128608, "amount_minor": 63583200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1843933}
+{"event_id": "txn-00172", "timestamp": 1785794860, "amount_minor": 260876000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00173", "timestamp": 1786371119, "amount_minor": 72917, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2135}
+{"event_id": "txn-00174", "timestamp": 1786951785, "amount_minor": 25780, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "402", "fee_minor": 768}
+{"event_id": "txn-00175", "timestamp": 1787552196, "amount_minor": 1771140, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 51383}
+{"event_id": "txn-00176", "timestamp": 1788206377, "amount_minor": 432678, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 12568}
+{"event_id": "txn-00177", "timestamp": 1788819199, "amount_minor": 44059200, "currency": "ARS", "country": "AR", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 1277737}
+{"event_id": "txn-00178", "timestamp": 1789400273, "amount_minor": 176152000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 5108428}
+{"event_id": "txn-00179", "timestamp": 1782230429, "amount_minor": 85744, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "402", "fee_minor": 2507}
+{"event_id": "txn-00180", "timestamp": 1782794579, "amount_minor": 32949, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "402", "fee_minor": 976}
+{"event_id": "txn-00181", "timestamp": 1783456453, "amount_minor": 771120, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 22382}
+{"event_id": "txn-00182", "timestamp": 1784047841, "amount_minor": 54336, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "299", "fee_minor": 1596}
+{"event_id": "txn-00183", "timestamp": 1784612750, "amount_minor": 68248800, "currency": "$", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1979235}
+{"event_id": "txn-00184", "timestamp": 1785267305, "amount_minor": 348924000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 10118816}
+{"event_id": "txn-00185", "timestamp": 1785805202, "amount_minor": 32674, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 968}
+{"event_id": "txn-00186", "timestamp": 1786487776, "amount_minor": 51962, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "402", "fee_minor": 1527}
+{"event_id": "txn-00187", "timestamp": 1787078728, "amount_minor": 1707380, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 49534}
+{"event_id": "txn-00188", "timestamp": 1787644522, "amount_minor": 392496, "currency": "BRL", "country": "BR", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 11402}
+{"event_id": "txn-00189", "timestamp": 1788242231, "amount_minor": 10615200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "102", "fee_minor": 307861}
+{"event_id": "txn-00190", "timestamp": 1788829026, "amount_minor": 257984000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 7481556}
+{"event_id": "txn-00191", "timestamp": 1789464395, "amount_minor": 45326, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00192", "timestamp": 1782273796, "amount_minor": 17813, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 537}
+{"event_id": "txn-00193", "timestamp": 1782920599, "amount_minor": 1407260, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 40831}
+{"event_id": "txn-00194", "timestamp": 1783548602, "amount_minor": 80574, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2357}
+{"event_id": "txn-00195", "timestamp": 1784153049, "amount_minor": 58333200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1691683}
+{"event_id": "txn-00196", "timestamp": 1784686626, "amount_minor": 268364000, "currency": "$", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 7782576}
+{"event_id": "txn-00197", "timestamp": 1785296086, "amount_minor": 74073, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2168}
+{"event_id": "txn-00198", "timestamp": 1785964237, "amount_minor": 37877, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1118}
+{"event_id": "txn-00199", "timestamp": 1786558038, "amount_minor": 625400, "currency": "Mexican Peso", "country": "MX", "wallet": "DIGITAL_WALLET", "code": "402", "fee_minor": 18157}
+{"event_id": "txn-00200", "timestamp": 1787099320, "amount_minor": 489486, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 14215}
+{"event_id": "txn-00201", "timestamp": 1787762590, "amount_minor": 63800400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "299", "fee_minor": 1850232}
+{"event_id": "txn-00202", "timestamp": 1788322177, "amount_minor": 280484000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "402", "fee_minor": 8134056}
+{"event_id": "txn-00203", "timestamp": 1788944139, "amount_minor": 81393, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2380}
+{"event_id": "txn-00204", "timestamp": 1789597154, "amount_minor": 87187, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 2548}
+{"event_id": "txn-00205", "timestamp": 1782401968, "amount_minor": 1045800, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 30348}
+{"event_id": "txn-00206", "timestamp": 1782954200, "amount_minor": 442068, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 12840}
+{"event_id": "txn-00207", "timestamp": 1783598990, "amount_minor": 36523200, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1059193}
+{"event_id": "txn-00208", "timestamp": 1784180566, "amount_minor": 376500000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 10918520}
+{"event_id": "txn-00209", "timestamp": 1784797576, "amount_minor": 12465, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 381}
+{"event_id": "txn-00210", "timestamp": 1785404274, "amount_minor": 30152, "currency": "EUR", "country": "PT", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00211", "timestamp": 1786051495, "amount_minor": 1289800, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 37424}
+{"event_id": "txn-00212", "timestamp": 1786637959, "amount_minor": 183282, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 5335}
+{"event_id": "txn-00213", "timestamp": 1787244799, "amount_minor": 15405600, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 446782}
+{"event_id": "txn-00214", "timestamp": 1787803693, "amount_minor": 101668000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "102", "fee_minor": 2948392}
+{"event_id": "txn-00215", "timestamp": 1788438150, "amount_minor": 58031, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 1703}
+{"event_id": "txn-00216", "timestamp": 1789069268, "amount_minor": 91563, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 2675}
+{"event_id": "txn-00217", "timestamp": 1789678834, "amount_minor": 146080, "currency": "Mexican Peso", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 4256}
+{"event_id": "txn-00218", "timestamp": 1782471745, "amount_minor": 173226, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "402", "fee_minor": 5044}
+{"event_id": "txn-00219", "timestamp": 1783050191, "amount_minor": 99310800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 2880033}
+{"event_id": "txn-00220", "timestamp": 1783672162, "amount_minor": 53900000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 1563120}
+{"event_id": "txn-00221", "timestamp": 1784253417, "amount_minor": 17551, "currency": "EUR", "country": "ES", "wallet": "DIGITAL_WALLET", "code": "402", "fee_minor": 529}
+{"event_id": "txn-00222", "timestamp": 1784897615, "amount_minor": 12642, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 387}
+{"event_id": "txn-00223", "timestamp": 1785497719, "amount_minor": 191400, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 5571}
+{"event_id": "txn-00224", "timestamp": 1786065451, "amount_minor": 351786, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 10222}
+{"event_id": "txn-00225", "timestamp": 1786679374, "amount_minor": 12934800, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "402", "fee_minor": 375129}
+{"event_id": "txn-00226", "timestamp": 1787294637, "amount_minor": 294976000, "currency": "Colombian Peso", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 8554324}
+{"event_id": "txn-00227", "timestamp": 1787911883, "amount_minor": 61870, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "402", "fee_minor": 1814}
+{"event_id": "txn-00228", "timestamp": 1788536540, "amount_minor": 50301, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1479}
+{"event_id": "txn-00229", "timestamp": 1789105081, "amount_minor": 1129720, "currency": "MXN", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": ""}
+{"event_id": "txn-00230", "timestamp": 1789699463, "amount_minor": 364836, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 10600}
+{"event_id": "txn-00231", "timestamp": 1782536985, "amount_minor": 51002400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1479090}
+{"event_id": "txn-00232", "timestamp": 1783133224, "amount_minor": 274856000, "currency": "COP", "country": "CO", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": 7970844}
+{"event_id": "txn-00233", "timestamp": 1783782774, "amount_minor": 20767, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 622}
+{"event_id": "txn-00234", "timestamp": 1784359039, "amount_minor": 61108, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1792}
+{"event_id": "txn-00235", "timestamp": 1784955224, "amount_minor": 575020, "currency": "$", "country": "MX", "wallet": "digital_wallet", "code": "200", "fee_minor": 16696}
+{"event_id": "txn-00236", "timestamp": 1785611096, "amount_minor": 205404, "currency": "BRL", "country": "BR", "wallet": "digital_wallet", "code": "200", "fee_minor": 5977}
+{"event_id": "txn-00237", "timestamp": 1786217587, "amount_minor": 61862400, "currency": "ARS", "country": "AR", "wallet": "digital_wallet", "code": "200", "fee_minor": 1794030}
+{"event_id": "txn-00238", "timestamp": 1786793755, "amount_minor": 125676000, "currency": "COP", "country": "CO", "wallet": "digital_wallet", "code": "200", "fee_minor": 3644624}
+{"event_id": "txn-00239", "timestamp": 1787406754, "amount_minor": 93434, "currency": "EUR", "country": "ES", "wallet": "digital_wallet", "code": "200", "fee_minor": 2730}
+{"event_id": "txn-00240", "timestamp": 1787963897, "amount_minor": 50118, "currency": "EUR", "country": "PT", "wallet": "digital_wallet", "code": "200", "fee_minor": 1473}
+{"event_id": "txn-00001", "timestamp": 1783389763, "amount_minor": 1443140, "currency": "$", "country": "MX", "wallet": "DIGITAL_WALLET", "code": "200", "fee_minor": ""}

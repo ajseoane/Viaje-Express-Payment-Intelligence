@@ -1,0 +1,12 @@
+* text=auto
+*.py text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.ipynb text eol=lf
+*.sqlite binary
+# Preserve source and evidence hashes across operating systems.
+data/raw/** -text
+data/processed/evidence/** -text

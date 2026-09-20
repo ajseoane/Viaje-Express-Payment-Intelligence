@@ -1,0 +1,2412 @@
+[
+  {
+    "transaction_id": "txn-00001",
+    "created_at": "2026-06-22T21:21:00+00:00",
+    "amount": "4148.20",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00002",
+    "created_at": "2026-06-29T16:29:00+00:00",
+    "amount": "1977320.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "53387.84"
+  },
+  {
+    "transaction_id": "txn-00003",
+    "created_at": "2026-07-06T08:47:01+00:00",
+    "amount": "1354.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "WAIT",
+    "fee": "36.76"
+  },
+  {
+    "transaction_id": "txn-00004",
+    "created_at": "2026-07-13T04:36:18+00:00",
+    "amount": "2223280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "60028.76"
+  },
+  {
+    "transaction_id": "txn-00005",
+    "created_at": "2026-07-20T04:31:46+00:00",
+    "amount": "12056.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "325.71"
+  },
+  {
+    "transaction_id": "txn-00006",
+    "created_at": "2026-07-27T06:44:11+00:00",
+    "amount": "3096360.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "83601.92"
+  },
+  {
+    "transaction_id": "txn-00007",
+    "created_at": "2026-08-03T08:01:02+00:00",
+    "amount": "10130.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "273.73"
+  },
+  {
+    "transaction_id": "txn-00008",
+    "created_at": "32/13/2026",
+    "amount": "3411080.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "92099.36"
+  },
+  {
+    "transaction_id": "txn-00009",
+    "created_at": "2026-08-17T07:53:47+00:00",
+    "amount": "12431.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "335.85"
+  },
+  {
+    "transaction_id": "txn-00010",
+    "created_at": "2026-08-24T20:31:53+00:00",
+    "amount": "3694840.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "99760.88"
+  },
+  {
+    "transaction_id": "txn-00011",
+    "created_at": "2026-08-31T11:14:52+00:00",
+    "amount": "6566.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "177.49"
+  },
+  {
+    "transaction_id": "txn-00012",
+    "created_at": "2026-09-07T10:43:00+00:00",
+    "amount": "606200.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "CREDIT_CARD",
+    "status": "SUCCESS",
+    "fee": "16367.60"
+  },
+  {
+    "transaction_id": "txn-00013",
+    "created_at": "2026-09-14T07:59:27+00:00",
+    "amount": "1735.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "47.06"
+  },
+  {
+    "transaction_id": "txn-00014",
+    "created_at": "2026-06-23T02:42:04+00:00",
+    "amount": "1580160.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "42664.52"
+  },
+  {
+    "transaction_id": "txn-00015",
+    "created_at": "2026-06-30T15:50:42+00:00",
+    "amount": "15768.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "425.94"
+  },
+  {
+    "transaction_id": "txn-00016",
+    "created_at": "2026-07-07T16:08:26+00:00",
+    "amount": "3508960.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "94742.12"
+  },
+  {
+    "transaction_id": "txn-00017",
+    "created_at": "2026-07-14T20:44:29+00:00",
+    "amount": "8747.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "236.37"
+  },
+  {
+    "transaction_id": "txn-00018",
+    "created_at": "2026-07-21T00:54:01+00:00",
+    "amount": "",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "72075.08"
+  },
+  {
+    "transaction_id": "txn-00019",
+    "created_at": "2026-07-28T06:41:38+00:00",
+    "amount": "2845.40",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "77.03"
+  },
+  {
+    "transaction_id": "txn-00020",
+    "created_at": "2026-08-04T22:27:24+00:00",
+    "amount": "1602960.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00021",
+    "created_at": "2026-08-11T23:00:25+00:00",
+    "amount": "3019.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "81.72"
+  },
+  {
+    "transaction_id": "txn-00022",
+    "created_at": "2026-08-18T03:47:41+00:00",
+    "amount": "2376800.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "64173.80"
+  },
+  {
+    "transaction_id": "txn-00023",
+    "created_at": "2026-08-25T03:02:39+00:00",
+    "amount": "6399.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "CREDIT_CARD",
+    "status": "SUCCESS",
+    "fee": "172.99"
+  },
+  {
+    "transaction_id": "txn-00024",
+    "created_at": "2026-09-01T20:07:58+00:00",
+    "amount": "1525360.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "41184.92"
+  },
+  {
+    "transaction_id": "txn-00025",
+    "created_at": "2026-09-08T13:23:11+00:00",
+    "amount": "1162.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "31.60"
+  },
+  {
+    "transaction_id": "txn-00026",
+    "created_at": "2026-09-15T15:50:43+00:00",
+    "amount": "2687960.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "72575.12"
+  },
+  {
+    "transaction_id": "txn-00027",
+    "created_at": "2026-06-24T23:05:25+00:00",
+    "amount": "1149.60",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "31.24"
+  },
+  {
+    "transaction_id": "txn-00028",
+    "created_at": "2026-07-01T22:18:29+00:00",
+    "amount": "3677120.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "UNRECOGNIZED",
+    "fee": "99282.44"
+  },
+  {
+    "transaction_id": "txn-00029",
+    "created_at": "2026-07-08T02:49:04+00:00",
+    "amount": "2972.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "80.45"
+  },
+  {
+    "transaction_id": "txn-00030",
+    "created_at": "2026-07-15T00:35:45+00:00",
+    "amount": "3361280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "WAIT",
+    "fee": "90754.76"
+  },
+  {
+    "transaction_id": "txn-00031",
+    "created_at": "2026-07-22T10:23:25+00:00",
+    "amount": "11014.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "297.58"
+  },
+  {
+    "transaction_id": "txn-00032",
+    "created_at": "2026-07-29T03:02:22+00:00",
+    "amount": "3585200.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "96800.60"
+  },
+  {
+    "transaction_id": "txn-00033",
+    "created_at": "2026-08-05T03:55:27+00:00",
+    "amount": "16527.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "446.43"
+  },
+  {
+    "transaction_id": "txn-00034",
+    "created_at": "2026-08-12T00:46:50+00:00",
+    "amount": "2915400.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "CREDIT_CARD",
+    "status": "SUCCESS",
+    "fee": "78716.00"
+  },
+  {
+    "transaction_id": "txn-00035",
+    "created_at": "2026-08-19T10:37:36+00:00",
+    "amount": "13670.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "369.30"
+  },
+  {
+    "transaction_id": "txn-00036",
+    "created_at": "2026-08-26T07:03:48+00:00",
+    "amount": "3446280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "93049.76"
+  },
+  {
+    "transaction_id": "txn-00037",
+    "created_at": "2026-09-02T21:32:10+00:00",
+    "amount": "14684.00",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "396.67"
+  },
+  {
+    "transaction_id": "txn-00038",
+    "created_at": "2026-09-09T03:31:47+00:00",
+    "amount": "1695520.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "45779.24"
+  },
+  {
+    "transaction_id": "txn-00039",
+    "created_at": "2026-09-16T21:38:19+00:00",
+    "amount": "17962.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00040",
+    "created_at": "2026-06-25T13:05:36+00:00",
+    "amount": "1427000.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "38529.20"
+  },
+  {
+    "transaction_id": "txn-00041",
+    "created_at": "2026-07-02T09:10:07+00:00",
+    "amount": "13710.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "370.37"
+  },
+  {
+    "transaction_id": "txn-00042",
+    "created_at": "2026-07-09T03:59:44+00:00",
+    "amount": "2416800.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "65253.80"
+  },
+  {
+    "transaction_id": "txn-00043",
+    "created_at": "2026-07-16T09:52:23+00:00",
+    "amount": "8892.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "240.29"
+  },
+  {
+    "transaction_id": "txn-00044",
+    "created_at": "2026-07-23T12:46:23+00:00",
+    "amount": "2630360.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "71019.92"
+  },
+  {
+    "transaction_id": "txn-00045",
+    "created_at": "2026-07-30T16:26:36+00:00",
+    "amount": "18213.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "491.96"
+  },
+  {
+    "transaction_id": "txn-00046",
+    "created_at": "2026-08-06T10:57:24+00:00",
+    "amount": "1716320.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "46340.84"
+  },
+  {
+    "transaction_id": "txn-00047",
+    "created_at": "2026-08-13T08:44:35+00:00",
+    "amount": "6226.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "168.30"
+  },
+  {
+    "transaction_id": "txn-00048",
+    "created_at": "2026-08-20T15:55:56+00:00",
+    "amount": "1320400.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "35651.00"
+  },
+  {
+    "transaction_id": "txn-00049",
+    "created_at": "2026-08-27T01:55:10+00:00",
+    "amount": "12704.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "343.22"
+  },
+  {
+    "transaction_id": "txn-00050",
+    "created_at": "2026-09-03T21:12:51+00:00",
+    "amount": "2557360.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "69048.92"
+  },
+  {
+    "transaction_id": "txn-00051",
+    "created_at": "2026-09-10T05:37:39+00:00",
+    "amount": "4641.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "125.51"
+  },
+  {
+    "transaction_id": "txn-00052",
+    "created_at": "2026-09-17T12:25:05+00:00",
+    "amount": "2952440.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "79716.08"
+  },
+  {
+    "transaction_id": "txn-00053",
+    "created_at": "2026-06-26T20:43:02+00:00",
+    "amount": "10184.40",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "275.18"
+  },
+  {
+    "transaction_id": "txn-00054",
+    "created_at": "2026-07-03T20:30:25+00:00",
+    "amount": "2725160.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "73579.52"
+  },
+  {
+    "transaction_id": "txn-00055",
+    "created_at": "2026-07-10T19:42:23+00:00",
+    "amount": "4876.60",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "131.87"
+  },
+  {
+    "transaction_id": "txn-00056",
+    "created_at": "2026-07-17T06:13:11+00:00",
+    "amount": "320520.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "CREDIT_CARD",
+    "status": "SUCCESS",
+    "fee": "8654.24"
+  },
+  {
+    "transaction_id": "txn-00057",
+    "created_at": "2026-07-24T21:50:04+00:00",
+    "amount": "3672.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "99.35"
+  },
+  {
+    "transaction_id": "txn-00058",
+    "created_at": "2026-07-31T17:33:19+00:00",
+    "amount": "3102320.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00059",
+    "created_at": "2026-08-07T13:13:28+00:00",
+    "amount": "2755.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "74.59"
+  },
+  {
+    "transaction_id": "txn-00060",
+    "created_at": "2026-08-14T08:52:41+00:00",
+    "amount": "764720.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "20647.64"
+  },
+  {
+    "transaction_id": "txn-00061",
+    "created_at": "2026-08-21T04:49:02+00:00",
+    "amount": "15559.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "420.31"
+  },
+  {
+    "transaction_id": "txn-00062",
+    "created_at": "2026-08-28T08:05:52+00:00",
+    "amount": "559280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "15100.76"
+  },
+  {
+    "transaction_id": "txn-00063",
+    "created_at": "2026-09-04T07:00:43+00:00",
+    "amount": "15185.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "410.21"
+  },
+  {
+    "transaction_id": "txn-00064",
+    "created_at": "2026-09-11T11:28:35+00:00",
+    "amount": "823040.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "22222.28"
+  },
+  {
+    "transaction_id": "txn-00065",
+    "created_at": "2026-09-18T23:41:07+00:00",
+    "amount": "3090.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "83.64"
+  },
+  {
+    "transaction_id": "txn-00066",
+    "created_at": "2026-06-27T17:09:22+00:00",
+    "amount": "2811640.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "75914.48"
+  },
+  {
+    "transaction_id": "txn-00067",
+    "created_at": "2026-07-04T05:08:27+00:00",
+    "amount": "3159.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "85.50"
+  },
+  {
+    "transaction_id": "txn-00068",
+    "created_at": "2026-07-11T19:34:44+00:00",
+    "amount": "3080200.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "83165.60"
+  },
+  {
+    "transaction_id": "txn-00069",
+    "created_at": "2026-07-18T01:22:24+00:00",
+    "amount": "5362.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "144.98"
+  },
+  {
+    "transaction_id": "txn-00070",
+    "created_at": "2026-07-25T15:45:26+00:00",
+    "amount": "1568600.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "42352.40"
+  },
+  {
+    "transaction_id": "txn-00071",
+    "created_at": "2026-08-01T12:53:07+00:00",
+    "amount": "7941.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "214.63"
+  },
+  {
+    "transaction_id": "txn-00072",
+    "created_at": "2026-08-08T19:52:21+00:00",
+    "amount": "1602040.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "43255.28"
+  },
+  {
+    "transaction_id": "txn-00073",
+    "created_at": "2026-08-15T09:21:06+00:00",
+    "amount": "15626.40",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "422.11"
+  },
+  {
+    "transaction_id": "txn-00074",
+    "created_at": "2026-08-22T04:28:38+00:00",
+    "amount": "2637440.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "71211.08"
+  },
+  {
+    "transaction_id": "txn-00075",
+    "created_at": "2026-08-29T13:16:33+00:00",
+    "amount": "10146.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "274.16"
+  },
+  {
+    "transaction_id": "txn-00076",
+    "created_at": "2026-09-05T18:36:45+00:00",
+    "amount": "264480.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "7141.16"
+  },
+  {
+    "transaction_id": "txn-00077",
+    "created_at": "2026-09-12T03:19:39+00:00",
+    "amount": "1990.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00078",
+    "created_at": "2026-09-19T14:58:53+00:00",
+    "amount": "3499120.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "94476.44"
+  },
+  {
+    "transaction_id": "txn-00079",
+    "created_at": "2026-06-28T16:04:33+00:00",
+    "amount": "6265.20",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "169.36"
+  },
+  {
+    "transaction_id": "txn-00080",
+    "created_at": "2026-07-05T16:19:02+00:00",
+    "amount": "2178040.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "58807.28"
+  },
+  {
+    "transaction_id": "txn-00081",
+    "created_at": "2026-07-12T00:12:09+00:00",
+    "amount": "3617.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "97.87"
+  },
+  {
+    "transaction_id": "txn-00082",
+    "created_at": "2026-07-19T04:30:29+00:00",
+    "amount": "750960.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "20276.12"
+  },
+  {
+    "transaction_id": "txn-00083",
+    "created_at": "2026-07-26T22:53:51+00:00",
+    "amount": "7867.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "212.62"
+  },
+  {
+    "transaction_id": "txn-00084",
+    "created_at": "2026-08-02T11:59:00+00:00",
+    "amount": "1427640.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "38546.48"
+  },
+  {
+    "transaction_id": "txn-00085",
+    "created_at": "2026-08-09T09:00:07+00:00",
+    "amount": "3849.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "104.13"
+  },
+  {
+    "transaction_id": "txn-00086",
+    "created_at": "2026-08-16T12:50:26+00:00",
+    "amount": "308320.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "8324.84"
+  },
+  {
+    "transaction_id": "txn-00087",
+    "created_at": "2026-08-23T16:22:41+00:00",
+    "amount": "4766.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "128.88"
+  },
+  {
+    "transaction_id": "txn-00088",
+    "created_at": "2026-08-30T19:40:13+00:00",
+    "amount": "3099960.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "83699.12"
+  },
+  {
+    "transaction_id": "txn-00089",
+    "created_at": "2026-09-06T07:12:13+00:00",
+    "amount": "5357.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "144.84"
+  },
+  {
+    "transaction_id": "txn-00090",
+    "created_at": "2026-09-13T08:57:37+00:00",
+    "amount": "2660280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "71827.76"
+  },
+  {
+    "transaction_id": "txn-00091",
+    "created_at": "2026-06-22T10:00:54+00:00",
+    "amount": "9905.60",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "267.65"
+  },
+  {
+    "transaction_id": "txn-00092",
+    "created_at": "2026-06-29T23:06:17+00:00",
+    "amount": "388600.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "10492.40"
+  },
+  {
+    "transaction_id": "txn-00093",
+    "created_at": "2026-07-06T03:43:37+00:00",
+    "amount": "10340.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "279.39"
+  },
+  {
+    "transaction_id": "txn-00094",
+    "created_at": "2026-07-13T17:00:27+00:00",
+    "amount": "1581800.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "42708.80"
+  },
+  {
+    "transaction_id": "txn-00095",
+    "created_at": "2026-07-20T08:15:48+00:00",
+    "amount": "5020.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "135.75"
+  },
+  {
+    "transaction_id": "txn-00096",
+    "created_at": "2026-07-27T01:37:54+00:00",
+    "amount": "1578560.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00097",
+    "created_at": "2026-08-03T17:20:12+00:00",
+    "amount": "9514.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "257.10"
+  },
+  {
+    "transaction_id": "txn-00098",
+    "created_at": "2026-08-10T01:13:17+00:00",
+    "amount": "3185720.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "86014.64"
+  },
+  {
+    "transaction_id": "txn-00099",
+    "created_at": "2026-08-17T01:19:05+00:00",
+    "amount": "6728.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "181.86"
+  },
+  {
+    "transaction_id": "txn-00100",
+    "created_at": "2026-08-24T02:39:08+00:00",
+    "amount": "3757000.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "101439.20"
+  },
+  {
+    "transaction_id": "txn-00101",
+    "created_at": "2026-08-31T04:45:56+00:00",
+    "amount": "17015.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "459.61"
+  },
+  {
+    "transaction_id": "txn-00102",
+    "created_at": "2026-09-07T08:14:08+00:00",
+    "amount": "1539600.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "41569.40"
+  },
+  {
+    "transaction_id": "txn-00103",
+    "created_at": "2026-09-14T07:30:05+00:00",
+    "amount": "10222.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "276.19"
+  },
+  {
+    "transaction_id": "txn-00104",
+    "created_at": "2026-06-23T17:40:25+00:00",
+    "amount": "2017480.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "54472.16"
+  },
+  {
+    "transaction_id": "txn-00105",
+    "created_at": "2026-06-30T02:29:48+00:00",
+    "amount": "13174.00",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "355.90"
+  },
+  {
+    "transaction_id": "txn-00106",
+    "created_at": "2026-07-07T09:03:26+00:00",
+    "amount": "1064000.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "28728.20"
+  },
+  {
+    "transaction_id": "txn-00107",
+    "created_at": "2026-07-14T14:25:59+00:00",
+    "amount": "8489.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "229.41"
+  },
+  {
+    "transaction_id": "txn-00108",
+    "created_at": "2026-07-21T18:22:31+00:00",
+    "amount": "3747600.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "101185.40"
+  },
+  {
+    "transaction_id": "txn-00109",
+    "created_at": "2026-07-28T05:48:30+00:00",
+    "amount": "18928.20",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "511.26"
+  },
+  {
+    "transaction_id": "txn-00110",
+    "created_at": "2026-08-04T03:04:44+00:00",
+    "amount": "2053480.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "55444.16"
+  },
+  {
+    "transaction_id": "txn-00111",
+    "created_at": "2026-08-11T04:20:16+00:00",
+    "amount": "10195.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "CREDIT_CARD",
+    "status": "SUCCESS",
+    "fee": "275.47"
+  },
+  {
+    "transaction_id": "txn-00112",
+    "created_at": "2026-08-18T05:43:59+00:00",
+    "amount": "830720.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "22429.64"
+  },
+  {
+    "transaction_id": "txn-00113",
+    "created_at": "2026-08-25T13:38:31+00:00",
+    "amount": "5401.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "146.03"
+  },
+  {
+    "transaction_id": "txn-00114",
+    "created_at": "2026-09-01T08:26:42+00:00",
+    "amount": "2304960.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "62234.12"
+  },
+  {
+    "transaction_id": "txn-00115",
+    "created_at": "2026-09-08T13:25:02+00:00",
+    "amount": "10190.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00116",
+    "created_at": "2026-09-15T03:19:11+00:00",
+    "amount": "2509000.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "67743.20"
+  },
+  {
+    "transaction_id": "txn-00117",
+    "created_at": "2026-06-24T02:26:45+00:00",
+    "amount": "5361.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "144.96"
+  },
+  {
+    "transaction_id": "txn-00118",
+    "created_at": "2026-07-01T09:29:43+00:00",
+    "amount": "1588760.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "42896.72"
+  },
+  {
+    "transaction_id": "txn-00119",
+    "created_at": "2026-07-08T05:35:05+00:00",
+    "amount": "14064.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "379.94"
+  },
+  {
+    "transaction_id": "txn-00120",
+    "created_at": "2026-07-15T19:46:55+00:00",
+    "amount": "2638520.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "71240.24"
+  },
+  {
+    "transaction_id": "txn-00121",
+    "created_at": "2026-07-22T21:09:41+00:00",
+    "amount": "18991.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "512.96"
+  },
+  {
+    "transaction_id": "txn-00122",
+    "created_at": "2026-07-29T00:54:57+00:00",
+    "amount": "1084440.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "DEBIT_CARD",
+    "status": "REFUND",
+    "fee": "29280.08"
+  },
+  {
+    "transaction_id": "txn-00123",
+    "created_at": "2026-08-05T03:21:59+00:00",
+    "amount": "3650.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "98.77"
+  },
+  {
+    "transaction_id": "txn-00124",
+    "created_at": "2026-08-12T05:32:11+00:00",
+    "amount": "341280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "9214.76"
+  },
+  {
+    "transaction_id": "txn-00125",
+    "created_at": "2026-08-19T23:45:44+00:00",
+    "amount": "7971.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "215.42"
+  },
+  {
+    "transaction_id": "txn-00126",
+    "created_at": "2026-08-26T13:15:33+00:00",
+    "amount": "2838560.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "76641.32"
+  },
+  {
+    "transaction_id": "txn-00127",
+    "created_at": "2026-09-02T19:41:35+00:00",
+    "amount": "3972.20",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "107.45"
+  },
+  {
+    "transaction_id": "txn-00128",
+    "created_at": "2026-09-09T09:33:49+00:00",
+    "amount": "1525640.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "41192.48"
+  },
+  {
+    "transaction_id": "txn-00129",
+    "created_at": "2026-09-16T00:56:09+00:00",
+    "amount": "5992.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "162.00"
+  },
+  {
+    "transaction_id": "txn-00130",
+    "created_at": "2026-06-25T17:30:00+00:00",
+    "amount": "1637440.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "44211.08"
+  },
+  {
+    "transaction_id": "txn-00131",
+    "created_at": "2026-07-02T07:15:42+00:00",
+    "amount": "16585.00",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "448.00"
+  },
+  {
+    "transaction_id": "txn-00132",
+    "created_at": "2026-07-09T20:15:11+00:00",
+    "amount": "1549280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "41830.76"
+  },
+  {
+    "transaction_id": "txn-00133",
+    "created_at": "2026-07-16T08:42:28+00:00",
+    "amount": "12254.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "331.06"
+  },
+  {
+    "transaction_id": "txn-00134",
+    "created_at": "2026-07-23T18:50:18+00:00",
+    "amount": "3088920.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00135",
+    "created_at": "2026-07-30T06:45:20+00:00",
+    "amount": "12265.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "331.36"
+  },
+  {
+    "transaction_id": "txn-00136",
+    "created_at": "2026-08-06T16:52:09+00:00",
+    "amount": "2096320.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "56600.84"
+  },
+  {
+    "transaction_id": "txn-00137",
+    "created_at": "2026-08-13T04:36:15+00:00",
+    "amount": "8281.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "223.79"
+  },
+  {
+    "transaction_id": "txn-00138",
+    "created_at": "2026-08-20T14:34:11+00:00",
+    "amount": "2716520.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "73346.24"
+  },
+  {
+    "transaction_id": "txn-00139",
+    "created_at": "2026-08-27T21:05:49+00:00",
+    "amount": "9821.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "265.38"
+  },
+  {
+    "transaction_id": "txn-00140",
+    "created_at": "2026-09-03T08:31:38+00:00",
+    "amount": "1786160.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "48226.52"
+  },
+  {
+    "transaction_id": "txn-00141",
+    "created_at": "2026-09-10T16:24:57+00:00",
+    "amount": "3795.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "102.69"
+  },
+  {
+    "transaction_id": "txn-00142",
+    "created_at": "2026-09-17T06:17:06+00:00",
+    "amount": "2628400.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "70967.00"
+  },
+  {
+    "transaction_id": "txn-00143",
+    "created_at": "2026-06-26T18:23:15+00:00",
+    "amount": "13933.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "376.40"
+  },
+  {
+    "transaction_id": "txn-00144",
+    "created_at": "2026-07-03T21:03:11+00:00",
+    "amount": "393480.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "CREDIT_CARD",
+    "status": "SUCCESS",
+    "fee": "10624.16"
+  },
+  {
+    "transaction_id": "txn-00145",
+    "created_at": "2026-07-10T09:36:17+00:00",
+    "amount": "18599.20",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "REFUND",
+    "fee": "502.38"
+  },
+  {
+    "transaction_id": "txn-00146",
+    "created_at": "2026-07-17T21:48:21+00:00",
+    "amount": "2494360.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "67347.92"
+  },
+  {
+    "transaction_id": "txn-00147",
+    "created_at": "2026-07-24T08:29:14+00:00",
+    "amount": "5610.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "151.67"
+  },
+  {
+    "transaction_id": "txn-00148",
+    "created_at": "2026-07-31T07:54:20+00:00",
+    "amount": "1248200.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "33701.60"
+  },
+  {
+    "transaction_id": "txn-00149",
+    "created_at": "2026-08-07T19:33:49+00:00",
+    "amount": "18604.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "502.51"
+  },
+  {
+    "transaction_id": "txn-00150",
+    "created_at": "2026-08-14T13:04:11+00:00",
+    "amount": "1793240.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "48417.68"
+  },
+  {
+    "transaction_id": "txn-00151",
+    "created_at": "2026-08-21T10:28:16+00:00",
+    "amount": "17957.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "485.06"
+  },
+  {
+    "transaction_id": "txn-00152",
+    "created_at": "2026-08-28T02:19:25+00:00",
+    "amount": "2455360.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "66294.92"
+  },
+  {
+    "transaction_id": "txn-00153",
+    "created_at": "2026-09-04T19:49:40+00:00",
+    "amount": "8920.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00154",
+    "created_at": "2026-09-11T18:05:54+00:00",
+    "amount": "1108000.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "29916.20"
+  },
+  {
+    "transaction_id": "txn-00155",
+    "created_at": "2026-09-18T07:22:59+00:00",
+    "amount": "13041.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "FAILED",
+    "fee": "352.33"
+  },
+  {
+    "transaction_id": "txn-00156",
+    "created_at": "2026-06-27T19:49:28+00:00",
+    "amount": "2742480.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "74047.16"
+  },
+  {
+    "transaction_id": "txn-00157",
+    "created_at": "2026-07-04T03:52:38+00:00",
+    "amount": "10519.80",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "284.23"
+  },
+  {
+    "transaction_id": "txn-00158",
+    "created_at": "2026-07-11T11:39:00+00:00",
+    "amount": "1421320.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "38375.84"
+  },
+  {
+    "transaction_id": "txn-00159",
+    "created_at": "2026-07-18T19:54:18+00:00",
+    "amount": "13056.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "352.71"
+  },
+  {
+    "transaction_id": "txn-00160",
+    "created_at": "2026-07-25T23:31:07+00:00",
+    "amount": "1118560.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "30201.32"
+  },
+  {
+    "transaction_id": "txn-00161",
+    "created_at": "2026-08-01T11:07:44+00:00",
+    "amount": "13507.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "364.91"
+  },
+  {
+    "transaction_id": "txn-00162",
+    "created_at": "2026-08-08T15:51:13+00:00",
+    "amount": "2148680.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "58014.56"
+  },
+  {
+    "transaction_id": "txn-00163",
+    "created_at": "2026-08-15T06:17:54+00:00",
+    "amount": "11995.80",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "324.09"
+  },
+  {
+    "transaction_id": "txn-00164",
+    "created_at": "2026-08-22T18:59:38+00:00",
+    "amount": "901680.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "24345.56"
+  },
+  {
+    "transaction_id": "txn-00165",
+    "created_at": "2026-08-29T18:27:43+00:00",
+    "amount": "12000.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "324.22"
+  },
+  {
+    "transaction_id": "txn-00166",
+    "created_at": "2026-09-05T06:41:14+00:00",
+    "amount": "3551160.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "95881.52"
+  },
+  {
+    "transaction_id": "txn-00167",
+    "created_at": "2026-09-12T17:24:38+00:00",
+    "amount": "6111.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "165.20"
+  },
+  {
+    "transaction_id": "txn-00168",
+    "created_at": "2026-09-19T13:55:23+00:00",
+    "amount": "657800.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "17760.80"
+  },
+  {
+    "transaction_id": "txn-00169",
+    "created_at": "2026-06-28T01:01:35+00:00",
+    "amount": "12328.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "333.08"
+  },
+  {
+    "transaction_id": "txn-00170",
+    "created_at": "2026-07-05T13:34:44+00:00",
+    "amount": "2863160.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "77305.52"
+  },
+  {
+    "transaction_id": "txn-00171",
+    "created_at": "2026-07-12T01:03:26+00:00",
+    "amount": "11406.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "308.18"
+  },
+  {
+    "transaction_id": "txn-00172",
+    "created_at": "2026-07-19T01:38:53+00:00",
+    "amount": "1304400.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00173",
+    "created_at": "2026-07-26T16:09:25+00:00",
+    "amount": "6656.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "179.93"
+  },
+  {
+    "transaction_id": "txn-00174",
+    "created_at": "2026-08-02T03:42:42+00:00",
+    "amount": "1207880.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "32612.96"
+  },
+  {
+    "transaction_id": "txn-00175",
+    "created_at": "2026-08-09T20:07:47+00:00",
+    "amount": "6326.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "171.02"
+  },
+  {
+    "transaction_id": "txn-00176",
+    "created_at": "2026-08-16T06:25:41+00:00",
+    "amount": "3358880.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "90689.96"
+  },
+  {
+    "transaction_id": "txn-00177",
+    "created_at": "2026-08-23T23:34:26+00:00",
+    "amount": "1982.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "53.71"
+  },
+  {
+    "transaction_id": "txn-00178",
+    "created_at": "2026-08-30T07:44:35+00:00",
+    "amount": "1193120.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "32214.44"
+  },
+  {
+    "transaction_id": "txn-00179",
+    "created_at": "2026-09-06T20:56:14+00:00",
+    "amount": "1336.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "36.27"
+  },
+  {
+    "transaction_id": "txn-00180",
+    "created_at": "2026-09-13T01:18:37+00:00",
+    "amount": "2388640.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "64493.48"
+  },
+  {
+    "transaction_id": "txn-00181",
+    "created_at": "2026-06-22T23:34:21+00:00",
+    "amount": "17359.20",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "468.90"
+  },
+  {
+    "transaction_id": "txn-00182",
+    "created_at": "2026-06-29T23:00:23+00:00",
+    "amount": "809880.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "21866.96"
+  },
+  {
+    "transaction_id": "txn-00183",
+    "created_at": "2026-07-06T01:05:14+00:00",
+    "amount": "9241.00",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "REFUND",
+    "fee": "249.71"
+  },
+  {
+    "transaction_id": "txn-00184",
+    "created_at": "2026-07-13T04:53:47+00:00",
+    "amount": "3091680.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "83475.56"
+  },
+  {
+    "transaction_id": "txn-00185",
+    "created_at": "2026-07-20T10:06:33+00:00",
+    "amount": "5975.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "161.55"
+  },
+  {
+    "transaction_id": "txn-00186",
+    "created_at": "2026-07-27T18:45:09+00:00",
+    "amount": "2759400.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "74504.00"
+  },
+  {
+    "transaction_id": "txn-00187",
+    "created_at": "2026-08-03T09:22:05+00:00",
+    "amount": "1532.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "41.57"
+  },
+  {
+    "transaction_id": "txn-00188",
+    "created_at": "2026-08-10T17:57:39+00:00",
+    "amount": "613760.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "CREDIT_CARD",
+    "status": "REFUND",
+    "fee": "16571.72"
+  },
+  {
+    "transaction_id": "txn-00189",
+    "created_at": "2026-08-17T06:09:48+00:00",
+    "amount": "9564.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "258.44"
+  },
+  {
+    "transaction_id": "txn-00190",
+    "created_at": "2026-08-24T05:25:49+00:00",
+    "amount": "2377120.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "64182.44"
+  },
+  {
+    "transaction_id": "txn-00191",
+    "created_at": "2026-08-31T01:59:26+00:00",
+    "amount": "11537.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00192",
+    "created_at": "2026-09-07T11:51:24+00:00",
+    "amount": "2496440.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "67404.08"
+  },
+  {
+    "transaction_id": "txn-00193",
+    "created_at": "2026-09-14T22:28:31+00:00",
+    "amount": "14322.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "386.90"
+  },
+  {
+    "transaction_id": "txn-00194",
+    "created_at": "2026-06-23T21:13:26+00:00",
+    "amount": "3202920.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "86479.04"
+  },
+  {
+    "transaction_id": "txn-00195",
+    "created_at": "2026-06-30T10:47:59+00:00",
+    "amount": "4134.00",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "111.82"
+  },
+  {
+    "transaction_id": "txn-00196",
+    "created_at": "2026-07-07T17:06:21+00:00",
+    "amount": "2155760.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "58205.72"
+  },
+  {
+    "transaction_id": "txn-00197",
+    "created_at": "2026-07-14T23:54:04+00:00",
+    "amount": "2242.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "60.75"
+  },
+  {
+    "transaction_id": "txn-00198",
+    "created_at": "2026-07-21T05:14:50+00:00",
+    "amount": "1273600.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "34387.40"
+  },
+  {
+    "transaction_id": "txn-00199",
+    "created_at": "2026-07-28T12:38:51+00:00",
+    "amount": "3565.40",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "96.47"
+  },
+  {
+    "transaction_id": "txn-00200",
+    "created_at": "2026-08-04T02:37:39+00:00",
+    "amount": "1819360.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "49122.92"
+  },
+  {
+    "transaction_id": "txn-00201",
+    "created_at": "2026-08-11T20:44:41+00:00",
+    "amount": "8548.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "231.01"
+  },
+  {
+    "transaction_id": "txn-00202",
+    "created_at": "2026-08-18T13:42:19+00:00",
+    "amount": "1635040.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "44146.28"
+  },
+  {
+    "transaction_id": "txn-00203",
+    "created_at": "2026-08-25T18:03:47+00:00",
+    "amount": "15201.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "REFUND",
+    "fee": "410.64"
+  },
+  {
+    "transaction_id": "txn-00204",
+    "created_at": "2026-09-01T17:51:12+00:00",
+    "amount": "1955600.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "52801.40"
+  },
+  {
+    "transaction_id": "txn-00205",
+    "created_at": "2026-09-08T05:32:09+00:00",
+    "amount": "16910.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "456.78"
+  },
+  {
+    "transaction_id": "txn-00206",
+    "created_at": "2026-09-15T23:47:42+00:00",
+    "amount": "2367280.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "63916.76"
+  },
+  {
+    "transaction_id": "txn-00207",
+    "created_at": "2026-06-24T05:57:39+00:00",
+    "amount": "14052.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "379.63"
+  },
+  {
+    "transaction_id": "txn-00208",
+    "created_at": "2026-07-01T12:56:29+00:00",
+    "amount": "367760.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "9929.72"
+  },
+  {
+    "transaction_id": "txn-00209",
+    "created_at": "2026-07-08T04:54:53+00:00",
+    "amount": "17279.20",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "466.74"
+  },
+  {
+    "transaction_id": "txn-00210",
+    "created_at": "2026-07-15T16:02:04+00:00",
+    "amount": "2503680.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "CREDIT_CARD",
+    "status": "FAILED",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00211",
+    "created_at": "2026-07-22T15:44:26+00:00",
+    "amount": "16685.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "450.72"
+  },
+  {
+    "transaction_id": "txn-00212",
+    "created_at": "2026-07-29T12:21:37+00:00",
+    "amount": "2588120.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "69879.44"
+  },
+  {
+    "transaction_id": "txn-00213",
+    "created_at": "2026-08-05T12:16:01+00:00",
+    "amount": "2182.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "59.12"
+  },
+  {
+    "transaction_id": "txn-00214",
+    "created_at": "2026-08-12T01:33:36+00:00",
+    "amount": "2552720.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "68923.64"
+  },
+  {
+    "transaction_id": "txn-00215",
+    "created_at": "2026-08-19T13:15:52+00:00",
+    "amount": "5454.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "147.48"
+  },
+  {
+    "transaction_id": "txn-00216",
+    "created_at": "2026-08-26T18:55:54+00:00",
+    "amount": "1415680.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "38223.56"
+  },
+  {
+    "transaction_id": "txn-00217",
+    "created_at": "2026-09-02T17:12:24+00:00",
+    "amount": "3588.40",
+    "currency": "Mexican Peso",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "WAIT",
+    "fee": "97.09"
+  },
+  {
+    "transaction_id": "txn-00218",
+    "created_at": "2026-09-09T11:27:55+00:00",
+    "amount": "1130040.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "30511.28"
+  },
+  {
+    "transaction_id": "txn-00219",
+    "created_at": "2026-09-16T12:42:46+00:00",
+    "amount": "6131.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "165.75"
+  },
+  {
+    "transaction_id": "txn-00220",
+    "created_at": "2026-06-25T09:47:41+00:00",
+    "amount": "2063600.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "55717.40"
+  },
+  {
+    "transaction_id": "txn-00221",
+    "created_at": "2026-07-02T16:16:47+00:00",
+    "amount": "1986.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": "53.83"
+  },
+  {
+    "transaction_id": "txn-00222",
+    "created_at": "2026-07-09T20:13:21+00:00",
+    "amount": "517000.00",
+    "currency": "$",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "13959.20"
+  },
+  {
+    "transaction_id": "txn-00223",
+    "created_at": "2026-07-16T04:16:54+00:00",
+    "amount": "12627.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "FAILED",
+    "fee": "341.13"
+  },
+  {
+    "transaction_id": "txn-00224",
+    "created_at": "2026-07-23T08:21:10+00:00",
+    "amount": "3559200.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "96098.60"
+  },
+  {
+    "transaction_id": "txn-00225",
+    "created_at": "2026-07-30T21:26:32+00:00",
+    "amount": "5915.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "159.91"
+  },
+  {
+    "transaction_id": "txn-00226",
+    "created_at": "2026-08-06T20:26:22+00:00",
+    "amount": "2531320.00",
+    "currency": "Colombian Peso",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "68345.84"
+  },
+  {
+    "transaction_id": "txn-00227",
+    "created_at": "2026-08-13T14:31:40+00:00",
+    "amount": "16718.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "451.60"
+  },
+  {
+    "transaction_id": "txn-00228",
+    "created_at": "2026-08-20T23:01:38+00:00",
+    "amount": "2484000.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "WAIT",
+    "fee": "67068.20"
+  },
+  {
+    "transaction_id": "txn-00229",
+    "created_at": "2026-08-27T14:07:33+00:00",
+    "amount": "7215.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": ""
+  },
+  {
+    "transaction_id": "txn-00230",
+    "created_at": "2026-09-03T12:22:22+00:00",
+    "amount": "1549720.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "41842.64"
+  },
+  {
+    "transaction_id": "txn-00231",
+    "created_at": "2026-09-10T14:56:16+00:00",
+    "amount": "3825.20",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "103.48"
+  },
+  {
+    "transaction_id": "txn-00232",
+    "created_at": "2026-09-17T09:12:44+00:00",
+    "amount": "2980960.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "CREDIT_CARD",
+    "status": "FAILED",
+    "fee": "80486.12"
+  },
+  {
+    "transaction_id": "txn-00233",
+    "created_at": "2026-06-26T19:20:01+00:00",
+    "amount": "10928.60",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "FAILED",
+    "fee": "295.27"
+  },
+  {
+    "transaction_id": "txn-00234",
+    "created_at": "2026-07-03T21:17:05+00:00",
+    "amount": "3526400.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "95213.00"
+  },
+  {
+    "transaction_id": "txn-00235",
+    "created_at": "2026-07-10T05:08:03+00:00",
+    "amount": "7753.00",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "209.53"
+  },
+  {
+    "transaction_id": "txn-00236",
+    "created_at": "2026-07-17T21:02:47+00:00",
+    "amount": "1753880.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "47354.96"
+  },
+  {
+    "transaction_id": "txn-00237",
+    "created_at": "2026-07-24T18:05:24+00:00",
+    "amount": "14565.80",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "393.48"
+  },
+  {
+    "transaction_id": "txn-00238",
+    "created_at": "2026-07-31T22:11:20+00:00",
+    "amount": "967160.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "26113.52"
+  },
+  {
+    "transaction_id": "txn-00239",
+    "created_at": "2026-08-07T21:48:07+00:00",
+    "amount": "14111.40",
+    "currency": "MXN",
+    "country": "MX",
+    "payment_method": "credit_card",
+    "status": "SUCCESS",
+    "fee": "381.21"
+  },
+  {
+    "transaction_id": "txn-00240",
+    "created_at": "2026-08-14T21:02:55+00:00",
+    "amount": "1000040.00",
+    "currency": "COP",
+    "country": "CO",
+    "payment_method": "debit_card",
+    "status": "SUCCESS",
+    "fee": "27001.28"
+  },
+  {
+    "transaction_id": "txn-00001",
+    "created_at": "2026-06-22T21:21:00+00:00",
+    "amount": "4148.20",
+    "currency": "$",
+    "country": "MX",
+    "payment_method": "DEBIT_CARD",
+    "status": "SUCCESS",
+    "fee": ""
+  }
+]

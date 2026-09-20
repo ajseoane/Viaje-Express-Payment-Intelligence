@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ViajeExpress · Payment intelligence</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230e8279'/%3E%3Cpath d='m7 9 9 15 9-15' stroke='white' stroke-width='4' fill='none'/%3E%3C/svg%3E">
+<style>
+:root{font-family:Inter,Segoe UI,Arial,sans-serif;color:#182b42;background:#f1f5f9;font-size:16px}*{box-sizing:border-box}body{margin:0}header{background:#112840;color:white;padding:25px 4vw;display:flex;justify-content:space-between;align-items:center;gap:20px}h1{font-size:1.7rem;margin:5px 0}h2{font-size:1.13rem;margin:0 0 18px}h3{font-size:1rem}.brand{color:#73dfcd;font-weight:700;letter-spacing:.06em;font-size:.85rem}header p{margin:4px 0;color:#c0d0e0;font-size:.9rem}main{max-width:1500px;margin:auto;padding:24px 4vw 50px}.toolbar{display:flex;gap:12px;align-items:end;flex-wrap:wrap;margin-bottom:20px}label{display:flex;flex-direction:column;gap:7px;font-size:.875rem;font-weight:600}select,input,button{font:inherit;border-radius:6px;border:1px solid #bdcad6;padding:10px;background:white;color:#182b42;min-height:42px}button{cursor:pointer;font-weight:600}button:hover{background:#e1f4ef}button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid #1b91d0;outline-offset:2px}.primary{background:#0e8279;color:white;border-color:#0e8279}.primary:hover{background:#086b64}.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:20px 0}.card,.panel{background:#fff;border:1px solid #dbe3ec;border-radius:10px;padding:20px}.card span{display:block;color:#51647b;font-size:.875rem}.card strong{display:block;font-size:1.85rem;margin:10px 0}.card small{color:#526579;font-size:.8rem}.panel{margin-bottom:18px}.grid{display:grid;grid-template-columns:1.1fr 1fr;gap:18px}.muted,.note{font-size:.875rem;color:#526579;line-height:1.6}.note{background:#e7f2f3;border-left:3px solid #0e8279;padding:12px 16px}.table-wrap{overflow:auto}table{border-collapse:collapse;width:100%;font-size:.875rem;white-space:nowrap}th{text-align:left;color:#53677c;font-size:.8rem;background:#f6f8fb}th,td{padding:12px 10px;border-bottom:1px solid #e4eaf0}td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}.pill{display:inline-block;border-radius:4px;padding:4px 7px;font-size:.8rem;background:#e3f4ee;color:#0b6856}.declined{background:#fce9ec;color:#ad2442}.pending{background:#fff2d6;color:#785b13}.refunded{background:#e9edfa;color:#435cab}.section-head{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:12px}.section-head h2{margin:0}.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:.8rem;margin:10px 0}.key{display:inline-block;width:10px;height:10px;margin-right:5px;border-radius:2px}.chart{height:240px;width:100%;display:block}.chart text{font:12px Segoe UI,Arial;fill:#526579}.method{display:grid;grid-template-columns:110px 1fr 45px;align-items:center;gap:9px;margin:10px 0;font-size:.875rem}.bar{height:14px;border-radius:3px;background:#eaf0f5;overflow:hidden}.bar div{background:#0e8279;height:100%}.alert{padding:12px 16px;background:#fff3df;border-left:3px solid #c97b12;line-height:1.5;margin:12px 0;font-size:.9rem}.error{color:#b32945;padding:10px 0}.empty{color:#63748a;padding:24px;text-align:center}.split{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.evidence{font-size:.8rem;white-space:normal;max-width:250px;overflow-wrap:anywhere}footer{color:#53677c;font-size:.8rem;line-height:1.7}details summary{cursor:pointer;font-weight:600;margin:8px 0}#notice{font-size:.875rem;margin-bottom:8px}#file-load{max-width:260px;font-size:.875rem} @media(max-width:1000px){.cards{grid-template-columns:repeat(2,1fr)}.grid{grid-template-columns:1fr}}@media(max-width:560px){header{align-items:start;flex-direction:column}.cards{grid-template-columns:1fr 1fr;gap:8px}.card{padding:14px}.card strong{font-size:1.4rem}main{padding:18px 14px}.toolbar label{width:calc(50% - 6px)}input,select{width:100%;min-width:0}.panel{padding:15px}.method{grid-template-columns:90px 1fr 40px}}
+</style></head><body>
+<header><div><div class="brand">VIAJEEXPRESS / FINANCE OPERATIONS</div><h1>Payment intelligence</h1><p>Six markets. One payment ledger.</p></div><div><span class="pill">Synthetic demonstration</span><p id="asof"></p></div></header>
+<main>
+<div class="toolbar">
+<label>From · UTC<input type="date" id="start"></label><label>To · UTC<input type="date" id="end"></label>
+<label>Market<select id="country"><option value="">All markets</option></select></label>
+<label>Provider<select id="psp"><option value="">All PSPs</option></select></label>
+<label>Payment method<select id="method"><option value="">All methods</option></select></label>
+<button id="reset">Reset filters</button><button id="refresh" class="primary">Refresh data</button>
+</div>
+<div id="notice" aria-live="polite"></div><div id="error" class="error" role="alert"></div>
+<div class="cards" id="cards"></div>
+<div id="alerts"></div>
+<section class="panel"><div class="section-head"><h2>Volume and processing costs</h2><span class="muted">Native currencies · no FX conversion</span></div><div class="table-wrap" id="currency-table"></div>
+<p class="muted">Gross TPV includes approved and fully refunded payments. Net volume subtracts refunds. Fees and effective cost below cover successful payments with known fees; missing fees are never treated as zero.</p></section>
+<section class="panel"><div class="section-head"><h2>Weekly gross payment volume</h2><div class="split"><label>Currency<select id="chart-currency"></select></label><label>Break down by<select id="breakdown"><option value="psp">PSP</option><option value="country">Market</option><option value="method">Payment method</option></select></label></div></div><div id="legend" class="legend"></div><div id="chart"></div><p class="muted">Weeks begin Monday in UTC. Hover a point for its exact value. Selected date boundaries can produce partial weeks.</p></section>
+<div class="grid"><section class="panel"><h2>Performance by PSP and market</h2><div class="table-wrap" id="performance"></div><p class="muted">Card authorization = successful card decisions ÷ all final card decisions. Payment success uses final decisions across all methods. Pending payments are excluded. Refunded payments imply an earlier success under these source contracts.</p></section>
+<section class="panel"><h2>Payment method distribution</h2><div id="methods"></div><p class="muted">Share of all transaction attempts, including pending and refunded payments. Market filter applies.</p></section></div>
+<section class="panel"><h2>Cost comparison by PSP</h2><div class="table-wrap" id="costs"></div><p class="muted">Compare like currencies and markets. Effective cost = known fees ÷ gross amount on the same fee-covered successful payments. Mean fee uses the same covered population. Recorded fees on declined or pending attempts appear only in the all-status fee column.</p></section>
+<section class="panel"><div class="section-head"><h2>Transaction evidence</h2><button id="export">Export filtered CSV</button></div><div class="table-wrap" id="transactions"></div><p class="muted" id="table-count"></p><div class="split"><button id="prev">Previous</button><span id="page"></span><button id="next">Next</button></div></section>
+<section class="panel"><details><summary>Ingestion quality & source traceability</summary><p class="muted">Latest load, independent of dashboard filters. Exact duplicate deliveries are skipped; invalid or conflicting records are quarantined. Original files are retained by SHA-256 in the evidence folder.</p><div class="table-wrap" id="quality"></div><p id="load-summary" class="muted"></p><label>Load an exported transactions.json<input id="file-load" type="file" accept=".json,application/json"></label></details></section>
+<footer><strong>Metric boundaries.</strong> One source row represents one payment attempt's current snapshot, not an event ledger. Refunds in this demo are full refunds dated to the original attempt, not refund cash-flow dates. Gross TPV is approved payment volume, not verified bank settlement. This prototype does not reconcile payouts, implement FX, or provide production dispute proof.<br>Dates cover a fixed 90-day demonstration period. The dashboard refreshes from the local pipeline when served with run.py; an offline copy must be regenerated or supplied a fresh transactions.json.</footer>
+</main>
+<script id="dataset" type="application/json">__DATA__</script>
+<script>__METRICS__</script>
+<script>
+'use strict';
+let bundle=JSON.parse(document.getElementById('dataset').textContent), rows=bundle.transactions, page=0;
+const M=PaymentMetrics, $=id=>document.getElementById(id), palette=['#0e8279','#3068c2','#ab5e24','#8955ad','#cc4263','#536c83','#579628'];
+const names={MX:'Mexico',BR:'Brazil',AR:'Argentina',CO:'Colombia',ES:'Spain',PT:'Portugal'};
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt=v=>new Intl.NumberFormat('en-US',{maximumFractionDigits:2,minimumFractionDigits:2}).format(v/100);
+const pct=v=>v===null?'N/A':(v*100).toFixed(1)+'%';
+const human=v=>String(v).replaceAll('_',' ');
+const table=(head,body)=>'<table><thead><tr>'+head.map(h=>'<th>'+esc(h)+'</th>').join('')+'</tr></thead><tbody>'+(body.length?body.map(row=>'<tr>'+row.map(v=>'<td>'+v+'</td>').join('')+'</tr>').join(''):'<tr><td colspan="'+head.length+'" class="empty">No matching transactions</td></tr>')+'</tbody></table>';
+function filterValues(){return Object.fromEntries(['start','end','country','psp','method'].map(k=>[k,$(k).value]));}
+function filtered(){return M.filter(rows,filterValues());}
+function options(){
+  for(const key of ['country','psp','method']){
+    const old=$(key).value, first=$(key).options[0].outerHTML;
+    $(key).innerHTML=first+[...new Set(rows.map(r=>r[key]))].sort().map(v=>'<option value="'+esc(v)+'">'+esc(names[v]||human(v))+'</option>').join('');$(key).value=old;
+  }
+  const dates=rows.map(r=>r.timestamp.slice(0,10)).sort();
+  $('start').value=dates[0]||'';$('end').value=dates.at(-1)||'';
+  $('asof').textContent=dates.length?dates[0]+' — '+dates.at(-1):'No data loaded';
+}
+function render(){
+  const invalid=$('start').value&&$('end').value&&$('start').value>$('end').value;
+  $('error').textContent=invalid?'Start date must be on or before the end date.':'';
+  const data=invalid?[]:filtered(), met=M.metrics(data);
+  $('cards').innerHTML=[['Transaction attempts',met.count.toLocaleString(),'Unique provider transaction IDs'],['Card authorization',pct(met.authorization),met.cardApproved+' successful / '+met.cardDecisions+' final card decisions'],['Payment success',pct(met.success),met.decisions+' final decisions · all methods'],['Pending payments',data.filter(r=>r.status==='pending').length.toLocaleString(),'Excluded from rate denominators']].map(([label,value,sub])=>'<div class="card"><span>'+esc(label)+'</span><strong>'+esc(value)+'</strong><small>'+esc(sub)+'</small></div>').join('');
+  $('currency-table').innerHTML=table(['Currency','Gross TPV','Refunds','Net volume','Known successful fees','Effective cost','Fee coverage'],met.currencies.map(c=>[c.currency,fmt(c.tpv),fmt(c.refunds),fmt(c.net),fmt(c.fees),pct(c.effectiveRate),pct(c.coverage)+' ('+c.knownCount+'/'+c.paidCount+')']));
+  $('performance').innerHTML=table(['Provider / market','Attempts','Card authorization','Payment success'],M.groups(data,['psp','country']).map(([key,rs])=>{let m=M.metrics(rs);return [esc(key),m.count,pct(m.authorization)+' <span class="muted">(n='+m.cardDecisions+')</span>',pct(m.success)];}));
+  $('costs').innerHTML=table(['Provider / currency','Covered gross','Known successful fees','Mean fee / payment','Effective cost','Fee coverage','All-status known fees'],M.groups(data,['psp','currency']).map(([key,rs])=>{const c=M.metrics(rs).currencies[0];return [esc(key),fmt(c.basis),fmt(c.fees),c.feePerPaid===null?'N/A':fmt(c.feePerPaid),pct(c.effectiveRate),pct(c.coverage),fmt(c.allKnownFees)];}));
+  $('methods').innerHTML=data.length?M.groups(data,['method']).sort((a,b)=>b[1].length-a[1].length).map(([key,rs])=>'<div class="method"><span>'+esc(human(key))+'</span><div class="bar"><div style="width:'+100*rs.length/data.length+'%"></div></div><span>'+pct(rs.length/data.length)+'</span></div>').join(''):'<div class="empty">No matching transactions</div>';
+  const currency=$('chart-currency').value;
+  $('chart-currency').innerHTML=met.currencies.map(c=>'<option>'+esc(c.currency)+'</option>').join('');
+  if(met.currencies.some(c=>c.currency===currency))$('chart-currency').value=currency;
+  draw(data);renderTransactions(data);renderQuality();anomalies(data);
+}
+function monday(date){const d=new Date(date.slice(0,10)+'T00:00:00Z');d.setUTCDate(d.getUTCDate()-(d.getUTCDay()+6)%7);return d.toISOString().slice(0,10);}
+function draw(data){
+  const currency=$('chart-currency').value, key=$('breakdown').value;
+  const paid=data.filter(r=>M.settled(r)&&r.currency===currency), group=M.groups(paid,[key]);
+  $('legend').innerHTML=group.map(([label],i)=>'<span><i class="key" style="background:'+palette[i%palette.length]+'"></i>'+esc(names[label]||human(label))+'</span>').join('');
+  if(!paid.length){$('chart').innerHTML='<div class="empty">No approved volume for this selection</div>';return;}
+  const dates=data.map(r=>r.timestamp).sort(), lo=monday(dates[0]), hi=monday(dates.at(-1)), weeks=[];
+  for(let d=new Date(lo+'T00:00:00Z');d.toISOString().slice(0,10)<=hi;d.setUTCDate(d.getUTCDate()+7))weeks.push(d.toISOString().slice(0,10));
+  const series=group.map(([label,rs])=>({label,values:weeks.map(w=>rs.filter(r=>monday(r.timestamp)===w).reduce((s,r)=>s+r.amount_minor,0))}));
+  const max=Math.max(...series.flatMap(s=>s.values),1), W=1000,H=240,L=85,R=20,T=15,B=36;
+  const x=i=>L+i*(W-L-R)/Math.max(weeks.length-1,1), y=v=>H-B-v/max*(H-T-B);
+  let svg='<svg class="chart" role="img" aria-label="Weekly gross TPV by '+esc(key)+' in '+esc(currency)+'" viewBox="0 0 '+W+' '+H+'" preserveAspectRatio="none">';
+  for(let j=0;j<=4;j++){const v=max*j/4;svg+='<line x1="'+L+'" x2="'+(W-R)+'" y1="'+y(v)+'" y2="'+y(v)+'" stroke="#e3eaf1"/><text x="'+(L-8)+'" y="'+(y(v)+4)+'" text-anchor="end">'+new Intl.NumberFormat('en',{notation:'compact',maximumFractionDigits:1}).format(v/100)+'</text>';}
+  weeks.forEach((w,i)=>{if(i%Math.max(1,Math.ceil(weeks.length/8))===0)svg+='<text x="'+x(i)+'" y="232" text-anchor="middle">'+w.slice(5)+'</text>';});
+  series.forEach((s,i)=>{const color=palette[i%palette.length];svg+='<polyline points="'+s.values.map((v,j)=>x(j)+','+y(v)).join(' ')+'" fill="none" stroke="'+color+'" stroke-width="2.5"/>';s.values.forEach((v,j)=>{svg+='<circle cx="'+x(j)+'" cy="'+y(v)+'" r="4" fill="'+color+'"><title>'+esc(s.label)+' · '+weeks[j]+' · '+esc(currency)+' '+fmt(v)+'</title></circle>';});});
+  $('chart').innerHTML=svg+'</svg>';
+}
+function renderTransactions(data){
+  const count=Math.max(1,Math.ceil(data.length/20));page=Math.min(page,count-1);
+  $('transactions').innerHTML=table(['Transaction','UTC timestamp','Market / method','Amount','Status','Fee','Source evidence'],data.slice().reverse().slice(page*20,page*20+20).map(r=>[
+    esc(r.id),esc(r.timestamp.replace('T',' ').replace('Z','')),esc(r.country+' / '+human(r.method)),esc(r.currency)+' '+fmt(r.amount_minor),'<span class="pill '+esc(r.status)+'">'+esc(r.status)+'</span>',r.fee_minor===null?'Unknown':fmt(r.fee_minor),'<details class="evidence"><summary>'+esc(r.source_file||'Imported')+' · row '+esc(r.source_row||'—')+'</summary>SHA-256: '+esc(r.source_sha256||'Unavailable')+'<br>'+esc((r.quality_notes||[]).join(', ')||'No warnings')+'</details>'
+  ]));
+  $('table-count').textContent=data.length+' matching transactions · 20 per page';$('page').textContent='Page '+(page+1)+' of '+count;$('prev').disabled=page===0;$('next').disabled=page>=count-1;
+}
+function renderQuality(){
+  const q=bundle.quality;
+  $('quality').innerHTML=table(['Provider','Deliveries','Inserted','Duplicates','Quarantined','Validity','New-row fee completeness'],(q?.sources||[]).map(s=>[esc(s.psp),s.rows,s.inserted,s.duplicates,s.rejected,s.validity_pct+'%',s.fee_completeness_pct===null?'N/A':s.fee_completeness_pct+'%']));
+  $('load-summary').textContent=q?'Last run: '+q.started_at+' · '+q.inserted+' inserted · '+q.duplicates+' duplicates · '+q.rejected+' quarantined. Validity checks required fields, formats, currencies and statuses; fee completeness measures newly inserted rows. Timeliness is not scored for historical synthetic data.':'Quality report unavailable for manually imported data.';
+}
+function anomalies(data){
+  if(!data.length){$('alerts').innerHTML='';return;}
+  const end=filterValues().end||data.at(-1).timestamp.slice(0,10), endMs=Date.parse(end+'T00:00:00Z')+86400000;
+  const recent=data.filter(r=>Date.parse(r.timestamp)>=endMs-7*86400000), previous=data.filter(r=>Date.parse(r.timestamp)>=endMs-14*86400000&&Date.parse(r.timestamp)<endMs-7*86400000);
+  const messages=[];
+  for(const [key,current] of M.groups(recent,['psp','country'])){
+    const prev=previous.filter(r=>r.psp+' / '+r.country===key), a=M.metrics(current), b=M.metrics(prev);
+    if(a.decisions>=5&&b.decisions>=5&&b.success-a.success>=0.15)messages.push(key+': payment success fell '+((b.success-a.success)*100).toFixed(1)+' percentage points ('+pct(b.success)+' → '+pct(a.success)+'). Sample sizes '+b.decisions+' → '+a.decisions+'.');
+  }
+  $('alerts').innerHTML=messages.map(t=>'<div class="alert"><strong>Review payment performance</strong><br>'+esc(t)+'<br><span class="muted">Last 7 vs previous 7 days ending '+esc(end)+', within selected filters. Rule: ≥15pp decline; ≥5 final decisions per window. Exploratory signal, not statistical proof.</span></div>').join('');
+}
+for(const key of ['start','end','country','psp','method'])$(key).addEventListener('change',()=>{page=0;render();});
+$('chart-currency').onchange=()=>draw(filtered());$('breakdown').onchange=()=>draw(filtered());
+$('reset').onclick=()=>{['country','psp','method'].forEach(k=>$(k).value='');options();page=0;render();};
+$('prev').onclick=()=>{page--;renderTransactions(filtered());};$('next').onclick=()=>{page++;renderTransactions(filtered());};
+$('export').onclick=()=>{
+  const cols=['id','psp','timestamp','amount_minor','currency','country','method','status','fee_minor','source_file','source_row','source_sha256'];
+  const cell=v=>'"'+String(v??'').replace(/^[=+@-]/,"'$&").replaceAll('"','""')+'"';
+  const text=[cols,...filtered().map(r=>cols.map(c=>r[c]))].map(row=>row.map(cell).join(',')).join('\r\n');
+  const link=document.createElement('a');link.href=URL.createObjectURL(new Blob([text],{type:'text/csv'}));link.download='viajeexpress-filtered.csv';link.click();setTimeout(()=>URL.revokeObjectURL(link.href),1000);
+};
+$('refresh').onclick=async()=>{
+  if(!['http:','https:'].includes(location.protocol)){$('notice').textContent='Offline snapshot: run python run.py to rebuild this file, then reopen it; or load a fresh transactions.json below.';return;}
+  $('refresh').disabled=true;$('notice').textContent='Running ingestion and refreshing analytics…';
+  try{const response=await fetch('/api/refresh',{method:'POST',headers:{'X-ViajeExpress':'refresh'}});if(!response.ok)throw Error('Refresh failed. Use the local server started by python run.py --serve.');bundle=await response.json();rows=bundle.transactions;const f=filterValues();options();Object.entries(f).forEach(([k,v])=>$(k).value=v);render();$('notice').textContent='Pipeline complete. '+bundle.quality.inserted+' new records; '+bundle.quality.rejected+' quarantined.';}
+  catch(e){$('notice').textContent=e.message;}finally{$('refresh').disabled=false;}
+};
+$('file-load').onchange=async e=>{
+  try{const parsed=JSON.parse(await e.target.files[0].text());if(!Array.isArray(parsed)||parsed.some(r=>!r.id||!/^\d{4}-\d{2}-\d{2}T/.test(r.timestamp)||!Number.isSafeInteger(r.amount_minor)||r.amount_minor<0||!['approved','declined','pending','refunded'].includes(r.status)||!['MXN','BRL','ARS','EUR','COP'].includes(r.currency)||!(r.fee_minor===null||(Number.isSafeInteger(r.fee_minor)&&r.fee_minor>=0))||!r.psp||!r.country||!r.method))throw Error('Expected normalized transactions.json with valid amounts, fees, dates and statuses.');if(new Set(parsed.map(r=>r.id)).size!==parsed.length)throw Error('Duplicate transaction IDs in imported data.');rows=parsed;bundle={transactions:rows,quality:null};options();render();$('notice').textContent='Loaded '+rows.length+' normalized records from file.';}catch(err){$('notice').textContent='Import failed: '+err.message;}
+};
+options();render();
+</script></body></html>
