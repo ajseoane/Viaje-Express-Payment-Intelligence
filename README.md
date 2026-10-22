@@ -1,4 +1,4 @@
-# ViajeExpress Payment Intelligence
+# Viaje Express Payment Intelligence
 
 A runnable payment ETL and interactive analytics prototype. Python's standard library handles ingestion, exact money parsing, SQLite storage, provenance, quarantine, HTML generation and local serving. The dashboard uses vanilla JavaScript and SVG, with no CDN or internet requirement.
 
